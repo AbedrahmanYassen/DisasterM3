@@ -1,7 +1,6 @@
 import argparse
 import json
 import os
-from dataclasses import asdict
 from os.path import dirname, abspath, join
 from typing import Dict, List
 
@@ -9,7 +8,6 @@ from PIL import Image
 from PIL.Image import Resampling
 from tqdm import tqdm
 from transformers import GenerationConfig
-# from vllm import EngineArgs, LLM, SamplingParams
 
 from models import build_model_config, ModelConfig
 
@@ -194,7 +192,6 @@ if __name__ == '__main__':
     parser.add_argument('--max_model_len', type=int, default=None)
     parser.add_argument('--max_tokens', type=int, default=8192)
     parser.add_argument('--image_size', type=int, default=None)
-    parser.add_argument('--tensor_parallel_size', type=int, default=None)
     parser.add_argument('--overwrite', action='store_true')
     parser.add_argument('--batch_size', type=int, default=8)
     args = parser.parse_args()
@@ -224,42 +221,13 @@ if __name__ == '__main__':
 
     if len(ds) > 0:
         model_config = build_model_config(model_id=args.model_id, max_model_len=args.max_model_len, max_tokens=args.max_tokens)
-        engine_args = model_config.default_engine_args
-        if "model" not in engine_args:
-            engine_args["model"] = args.model_id
-        if args.subset in ["bearing_body", "building_damage_counting", "disaster_type", "road_damage_counting", "caption", "recovery"]:
-            engine_args["limit_mm_per_prompt"] = dict(image=2)
-        else:
-            engine_args["limit_mm_per_prompt"] = dict(image=1)
-        if args.tensor_parallel_size is not None:
-            engine_args["tensor_parallel_size"] = args.tensor_parallel_size
-        engine_args = asdict(EngineArgs(**engine_args))
-        print(f"Engine arguments: {engine_args}")
-        vlm_model = LLM(**engine_args)
-
-        sampling_params = SamplingParams(max_tokens=args.max_tokens)
-        try:
-            default_generation_config = GenerationConfig.from_pretrained(args.model_id).to_diff_dict()
-            for key in default_generation_config:
-                if hasattr(sampling_params, key):
-                    setattr(sampling_params, key, default_generation_config[key])
-            sampling_params.update_from_generation_config(default_generation_config)
-        except OSError:
-            for key in engine_args["override_generation_config"]:
-                if hasattr(sampling_params, key):
-                    setattr(sampling_params, key, engine_args["override_generation_config"][key])
-
-        sampling_params.temperature = max(sampling_params.temperature, 0.01)
-        print(f"Sampling params: {sampling_params}")
 
         with open(result_save_path, "w" if len(finish_ids) == 0 else "a") as f:
             progress_bar = tqdm(total=len(ds))
             for batch_inputs, batch_metadata in create_batch_inputs(ds, model_config, args):
-                outputs = vlm_model.generate(batch_inputs, sampling_params=sampling_params, use_tqdm=False)
-
-                for idx, output in enumerate(outputs):
-                    generated_text = output.outputs[0].text
-                    assert int(output.request_id) % args.batch_size == idx, (output.request_id, idx)
+                for idx, inputs in enumerate(batch_inputs):
+                    # TODO: replace with your preferred inference backend
+                    generated_text = ""
 
                     dump_dict = {
                         "id": batch_metadata[idx]["id"],

@@ -1,0 +1,9 @@
+numpy
+torch
+torchvision
+Pillow
+tqdm
+transformers
+vllm
+qwen_vl_utils 
+decord  
