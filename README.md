@@ -33,6 +33,15 @@ DisasterM3 includes 26,988 bi-temporal satellite images and 123k instruction pai
 2. Multi-sensor: Extreme weather during disasters often hinders optical sensor imaging, making it necessary to combine Synthetic Aperture Radar (SAR) imagery for post-disaster scenes
 3. Multi-task: 9 disaster-related visual perception and reasoning tasks, harnessing the full potential of VLM's reasoning ability
 
+## Environment Requirements
+
+This project is designed to run on **Linux-based systems (Ubuntu recommended)**.
+
+### ⚠️ Windows Support
+- The project is **not officially supported on Windows**
+- This is mainly due to:
+  - `vLLM` dependency, which currently requires a Linux environment (CUDA + PyTorch + Triton stack)
+  - Linux-specific file path handling used in data loading scripts (POSIX-style paths)
 
 ## News
 - 2025/10/23, We released the DisasterM3 [instruct set](https://forms.gle/APQpmyuThh28HsJdA).
