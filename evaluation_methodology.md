@@ -5,7 +5,8 @@
 Also, in this section I will use the topic of natural disasters to explain evaluation metrics, and use the terminology and use cases presented in the in DisasterM3 paper. 
 
 Now, the nature of datasets used to evaluate VLM model are made of pairs of images and texts, because it takes typically an image and a question about this image. Here is an example of how VLM are used : 
-![[Pasted image 20260608103938.png]]
+![Alt text](stanford.png)
+
 Figure <sup>1</sup>
 
 You can see this clearly in [EarthVLSet](https://huggingface.co/datasets/Kingdrone-Junjue/EarthVLSet), where there are folders to store images and json file for text "questions".
