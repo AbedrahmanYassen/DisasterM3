@@ -1,5 +1,5 @@
 
-# Disaster
+# DisasterM3 paper summary
 
 ## problem statement,
 - Now, VLMs are capable these days when it comes to Earth vision, but complex disaster scenes with diverse disaster types, geographic regions, and satellite sensors have posed new challenges for VLM applications.
