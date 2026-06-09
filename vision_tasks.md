@@ -4,7 +4,7 @@
 
  now Classification in computer vision, you basically try to classify entire image as one of the classes, for example is this a dog or not in an image.  in the context of natural disasters, we have Disaster Type Recognition, "What disaster happened?" , predicts one label from a fixed set (explosion, flood, earthquake, etc.). 
 
-  If you have multiple objects in your image such as Trees and houses, you might want to find their location and you can try drawing  boxes or rectangles specifying the location of these classes. This is called object detection. In the context of natural disasters, we might include the Damaged Building Counting task, the model must _locate_ individual buildings to count intact/damaged/destroyed ones. 
+  If you have multiple objects in your image such as Trees and houses, you might want to find their location and you can try drawing  boxes or rectangles specifying the location of these classes. This is called object detection. In the context of natural disasters, we might include the Damaged Building Counting task. 
 
  You can go one more level up and classify each pixel as one of the classes. where you're exactly specifying each pixel belonging to each class. we have a very clear example in the context of natural disasters,Damage Segmentation, which produces pixel-level masks over damaged regions (flooded roads, destroyed buildings). 
 

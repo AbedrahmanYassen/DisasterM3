@@ -15,6 +15,6 @@ for global-scale disaster assessment and response. There are other remote sensin
 
 - And in the metrics used in evaluation were  accuracy (%) for the multiplechoice tasks, i.e., disaster scene recognition (DSR) The open-ended tasks are scored using GPT-4.1 at a scale of 5 points. Disaster caption is measured from damage assessment precision (DAP), damage detail recall (DDR),and factual correctness (FC). Restoration advice is measured from recovery necessity (RN), strategic completeness (SC), and action priority precision (APP). As for referring segmentation,we chose cIoU and mIoU.
 
-- Like any project or research, it has its own limitation, and in our case, we have  Multi-resolution generalization, Enhanced sensor diversity , Cross-sensor performance gap ,  Counting task optimization.
+- Like any project or research, it has its own limitation, and in our case, we have few limitations like the lack of Multi-resolution generalization, Enhanced sensor diversity , Cross-sensor performance gap and Counting task optimization.
 
 

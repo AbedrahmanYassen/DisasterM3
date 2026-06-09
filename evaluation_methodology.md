@@ -32,6 +32,7 @@ In the paper for example, The open-ended tasks are scored using GPT-4.1 at a sca
  it is a common metric for evaluating image segmentation models. It measures the overlap between the predicted segmentation and the ground truth.
 ### Dice Coefficient
 measures the similarity between two sets of data. It is particularly effective in assessing the accuracy of image segmentation models.
+
 ## Captioning Metrics
 
 In tasks involving image captioning, metrics such as BLEU, METEOR, and CIDEr are frequently used. BLEU (Bilingual Evaluation Understudy) measures how many words in the generated captions are also found in the reference captions, emphasizing precision. METEOR (Metric for Evaluation of Translation with Explicit ORdering) considers precision and recall while also accounting for synonyms and stemming, offering a more nuanced evaluation of linguistic quality.<sup>2</sup>
