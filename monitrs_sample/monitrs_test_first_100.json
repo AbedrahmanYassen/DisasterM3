@@ -1,0 +1,5924 @@
+[
+  {
+    "folder_id": 8114,
+    "video": [
+      "all_events/8114/8114_2022-10-05.jpg"
+    ],
+    "dataset": "FemaEvents",
+    "lat_lon": [
+      [
+        35.6790519,
+        -79.0392919
+      ]
+    ],
+    "timestamp": [
+      "2022-10-05T00:00:00"
+    ],
+    "sensor": [
+      "satellite"
+    ],
+    "task": "custom",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This is a sequence of sentinel-2 satellite images, centered at (35.6790519, -79.0392919):\n<video>\n Based on image 0 (referencing the provided text description), which location experienced the most significant flooding due to the combined effects of Hurricane Ian and a stalled front?\n\nA:  Core Banks (260, 254)\nB:  Western Bogue Sound (258, 253)\nC:  New Bern (258, 254)\nD:  Hatteras Island (261, 255)\n\n\n"
+      },
+      {
+        "from": "gpt",
+        "value": " A"
+      }
+    ],
+    "id": 0
+  },
+  
+  {
+    "folder_id": 8114,
+    "video": [
+      "all_events/8114/8114_2022-10-05.jpg"
+    ],
+    "dataset": "FemaEvents",
+    "lat_lon": [
+      [
+        35.6790519,
+        -79.0392919
+      ]
+    ],
+    "timestamp": [
+      "2022-10-05T00:00:00"
+    ],
+    "sensor": [
+      "satellite"
+    ],
+    "task": "custom",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This is a sequence of sentinel-2 satellite images, centered at (35.6790519, -79.0392919):\n<video>\n  Assuming satellite image 0 shows the extent of flooding, what is the approximate North-South distance (in coordinate units) of the affected area along the coast encompassing Hatteras Island (261, 255), Ocracoke Island (260, 254), and Core Banks (260, 254)?\n\nA: 1 coordinate unit\nB: 2 coordinate units\nC: 3 coordinate units\nD: 4 coordinate units\n\n"
+      },
+      {
+        "from": "gpt",
+        "value": " B"
+      }
+    ],
+    "id": 1
+  },
+  {
+    "folder_id": 8114,
+    "video": [
+      "all_events/8114/8114_2022-10-05.jpg"
+    ],
+    "dataset": "FemaEvents",
+    "lat_lon": [
+      [
+        35.6790519,
+        -79.0392919
+      ]
+    ],
+    "timestamp": [
+      "2022-10-05T00:00:00"
+    ],
+    "sensor": [
+      "satellite"
+    ],
+    "task": "custom",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This is a sequence of sentinel-2 satellite images, centered at (35.6790519, -79.0392919):\n<video>\n According to the description of image 0, which type of severe weather event, besides flooding, is specifically mentioned as having occurred in the affected area?\n\nA: Tornado\nB: Hurricane-force winds\nC: Waterspout\nD: Blizzard\n\n"
+      },
+      {
+        "from": "gpt",
+        "value": " C"
+      }
+    ],
+    "id": 2
+  },
+  {
+    "folder_id": 8115,
+    "video": [
+      "all_events/8115/8115_2022-10-05.jpg"
+    ],
+    "dataset": "FemaEvents",
+    "lat_lon": [
+      [
+        35.6790519,
+        -79.0392919
+      ]
+    ],
+    "timestamp": [
+      "2022-10-05T00:00:00"
+    ],
+    "sensor": [
+      "satellite"
+    ],
+    "task": "custom",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This is a sequence of sentinel-2 satellite images, centered at (35.6790519, -79.0392919):\n<video>\n Based on image 0, which island experienced the most extensive overwash from Hurricane Ian's elevated tide levels and strong northeast swell?\n\nA: Ocracoke Island (260, 254)\nB: Hatteras Island (261, 255)\nC: Core Banks (unspecified coordinates, but mentioned in the text)\nD:  Overwash was relatively equal across all three islands.\n\n"
+      },
+      {
+        "from": "gpt",
+        "value": " B"
+      }
+    ],
+    "id": 3
+  },
+  {
+    "folder_id": 8115,
+    "video": [
+      "all_events/8115/8115_2022-10-05.jpg"
+    ],
+    "dataset": "FemaEvents",
+    "lat_lon": [
+      [
+        35.6790519,
+        -79.0392919
+      ]
+    ],
+    "timestamp": [
+      "2022-10-05T00:00:00"
+    ],
+    "sensor": [
+      "satellite"
+    ],
+    "task": "custom",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This is a sequence of sentinel-2 satellite images, centered at (35.6790519, -79.0392919):\n<video>\n  According to image 0, the waterspout observed in the western Bogue Sound is located at approximately which coordinates?\n\nA: (255, 258)\nB: (258, 253)\nC: (260, 254)\nD: (261, 255)\n\n"
+      },
+      {
+        "from": "gpt",
+        "value": " B"
+      }
+    ],
+    "id": 4
+  },
+  {
+    "folder_id": 8115,
+    "video": [
+      "all_events/8115/8115_2022-10-05.jpg"
+    ],
+    "dataset": "FemaEvents",
+    "lat_lon": [
+      [
+        35.6790519,
+        -79.0392919
+      ]
+    ],
+    "timestamp": [
+      "2022-10-05T00:00:00"
+    ],
+    "sensor": [
+      "satellite"
+    ],
+    "task": "custom",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This is a sequence of sentinel-2 satellite images, centered at (35.6790519, -79.0392919):\n<video>\n Image 0 indicates that the initial impact of Hurricane Ian, before significant strengthening, was primarily characterized by:\n\nA: Widespread building damage across the islands.\nB: Extensive inland flooding far from the coast.\nC: Elevated tide levels and overwash in coastal areas.\nD: Significant disruption to major transportation routes.\n\n"
+      },
+      {
+        "from": "gpt",
+        "value": " C"
+      }
+    ],
+    "id": 5
+  },
+  {
+    "folder_id": 8116,
+    "video": [
+      "all_events/8116/8116_2022-09-24.jpg",
+      "all_events/8116/8116_2022-10-04.jpg"
+    ],
+    "dataset": "FemaEvents",
+    "lat_lon": [
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ]
+    ],
+    "timestamp": [
+      "2022-09-24T00:00:00",
+      "2022-10-04T00:00:00"
+    ],
+    "sensor": [
+      "satellite",
+      "satellite"
+    ],
+    "task": "custom",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This is a sequence of sentinel-2 satellite images, centered at (18.1127526, -66.2663961):\n<video>\n Based on the satellite imagery comparing before and after Hurricane Fiona's landfall near Punta Tocón, which region shows the most extensive evidence of flooding, as indicated by changes in water coverage?\n\nA: The coastal areas surrounding [250, 258]\nB: The mountainous region near [260, 265]\nC: The agricultural lands around [252, 260]\nD: The urban area of San Juan [256, 258]\n\n"
+      },
+      {
+        "from": "gpt",
+        "value": " A"
+      }
+    ],
+    "id": 6
+  },
+  {
+    "folder_id": 8116,
+    "video": [
+      "all_events/8116/8116_2022-09-24.jpg",
+      "all_events/8116/8116_2022-10-04.jpg"
+    ],
+    "dataset": "FemaEvents",
+    "lat_lon": [
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ]
+    ],
+    "timestamp": [
+      "2022-09-24T00:00:00",
+      "2022-10-04T00:00:00"
+    ],
+    "sensor": [
+      "satellite",
+      "satellite"
+    ],
+    "task": "custom",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This is a sequence of sentinel-2 satellite images, centered at (18.1127526, -66.2663961):\n<video>\n  Analyzing the satellite images from before and after Hurricane Fiona, at approximately what coordinate range is there significant visible damage to infrastructure (roads or buildings)  consistent with flooding and mudslides,  as described in the event report?\n\nA: [250, 255] to [260, 260]\nB: [215, 330] to [220, 335]\nC: [257, 257] to [259, 259] (a very small area)\nD:  No significant infrastructure damage is visible in the provided imagery.\n\n"
+      },
+      {
+        "from": "gpt",
+        "value": " A"
+      }
+    ],
+    "id": 7
+  },
+  {
+    "folder_id": 8116,
+    "video": [
+      "all_events/8116/8116_2022-09-24.jpg",
+      "all_events/8116/8116_2022-10-04.jpg"
+    ],
+    "dataset": "FemaEvents",
+    "lat_lon": [
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ]
+    ],
+    "timestamp": [
+      "2022-09-24T00:00:00",
+      "2022-10-04T00:00:00"
+    ],
+    "sensor": [
+      "satellite",
+      "satellite"
+    ],
+    "task": "custom",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This is a sequence of sentinel-2 satellite images, centered at (18.1127526, -66.2663961):\n<video>\n Examining the satellite images, which area shows the most significant change in vegetation density or color post-Hurricane Fiona, suggesting widespread damage or removal consistent with the reported flooding and mudslides?  Assume that a change in color indicates damage.\n\nA: The densely forested area near coordinate [258, 262]\nB: The coastal plains near coordinate [250, 255]\nC: The sparsely vegetated hills near coordinate [265, 270]\nD: No significant change in vegetation density or color is visible.\n\n"
+      },
+      {
+        "from": "gpt",
+        "value": " A"
+      }
+    ],
+    "id": 8
+  },
+  {
+    "folder_id": 8117,
+    "video": [
+      "all_events/8117/8117_2022-09-24.jpg",
+      "all_events/8117/8117_2022-10-04.jpg"
+    ],
+    "dataset": "FemaEvents",
+    "lat_lon": [
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ]
+    ],
+    "timestamp": [
+      "2022-09-24T00:00:00",
+      "2022-10-04T00:00:00"
+    ],
+    "sensor": [
+      "satellite",
+      "satellite"
+    ],
+    "task": "custom",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This is a sequence of sentinel-2 satellite images, centered at (18.1127526, -66.2663961):\n<video>\n Based on the satellite imagery comparing pre- and post-Hurricane Fiona (images 0 and 1, assuming image 1 shows post-hurricane conditions), which area shows the most significant evidence of widespread flooding, as indicated by changes in land cover?\n\nA:  The coastal region near Punta Tocón, Puerto Rico (255, 256)\nB: The mountainous region west of San Juan (256, 257)\nC: The area around the WFO San Juan office (256, 257)\nD: The region 1000 miles east of the Windward Islands (263, 242)\n\n"
+      },
+      {
+        "from": "gpt",
+        "value": " A"
+      }
+    ],
+    "id": 9
+  },
+  {
+    "folder_id": 8117,
+    "video": [
+      "all_events/8117/8117_2022-09-24.jpg",
+      "all_events/8117/8117_2022-10-04.jpg"
+    ],
+    "dataset": "FemaEvents",
+    "lat_lon": [
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ]
+    ],
+    "timestamp": [
+      "2022-09-24T00:00:00",
+      "2022-10-04T00:00:00"
+    ],
+    "sensor": [
+      "satellite",
+      "satellite"
+    ],
+    "task": "custom",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This is a sequence of sentinel-2 satellite images, centered at (18.1127526, -66.2663961):\n<video>\n  Analyzing satellite imagery (image 1, assuming it shows post-hurricane conditions), what type of infrastructure damage appears MOST prevalent in the area surrounding Punta Tocón, Puerto Rico (255, 256)?\n\nA: Extensive damage to large-scale industrial facilities.\nB: Widespread destruction of residential buildings and homes.\nC: Significant disruption to major highway and road networks.\nD: Severe damage to bridges and overpasses.\n\n"
+      },
+      {
+        "from": "gpt",
+        "value": " B  (This assumes image 1 would show residential damage;  the other answers could be plausible depending on the actual imagery.)"
+      }
+    ],
+    "id": 10
+  },
+  {
+    "folder_id": 8117,
+    "video": [
+      "all_events/8117/8117_2022-09-24.jpg",
+      "all_events/8117/8117_2022-10-04.jpg"
+    ],
+    "dataset": "FemaEvents",
+    "lat_lon": [
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ]
+    ],
+    "timestamp": [
+      "2022-09-24T00:00:00",
+      "2022-10-04T00:00:00"
+    ],
+    "sensor": [
+      "satellite",
+      "satellite"
+    ],
+    "task": "custom",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This is a sequence of sentinel-2 satellite images, centered at (18.1127526, -66.2663961):\n<video>\n Comparing pre- and post-event satellite imagery (images 0 and 1), what is the approximate geographic extent (diameter) of the area displaying visibly significant changes in land cover/vegetation patterns consistent with flooding and/or damage, centered around Punta Tocón, Puerto Rico (255, 256)?\n\nA: Less than 5 km\nB: 5-15 km\nC: 15-30 km\nD: Greater than 30 km\n\n"
+      },
+      {
+        "from": "gpt",
+        "value": " C (This is an estimate and the correct answer would depend on the actual imagery.  The options provide a range to make choosing a correct answer likely.)"
+      }
+    ],
+    "id": 11
+  },
+  {
+    "folder_id": 8118,
+    "video": [
+      "all_events/8118/8118_2022-09-24.jpg",
+      "all_events/8118/8118_2022-10-04.jpg"
+    ],
+    "dataset": "FemaEvents",
+    "lat_lon": [
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ]
+    ],
+    "timestamp": [
+      "2022-09-24T00:00:00",
+      "2022-10-04T00:00:00"
+    ],
+    "sensor": [
+      "satellite",
+      "satellite"
+    ],
+    "task": "custom",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This is a sequence of sentinel-2 satellite images, centered at (18.1127526, -66.2663961):\n<video>\n Based on the satellite imagery from image 0 (showing Hurricane Fiona's impact), which of the following best describes the approximate geographic extent of significant flooding in Puerto Rico (255, 256)?\n\nA: Concentrated primarily in coastal areas along the northern shoreline.\nB: Widespread flooding across the entire island, with no significant unaffected areas.\nC: Significant flooding impacting primarily the central and eastern regions of the island.\nD: Limited to isolated pockets of flooding in mountainous regions.\n\n"
+      },
+      {
+        "from": "gpt",
+        "value": " C"
+      }
+    ],
+    "id": 12
+  },
+  {
+    "folder_id": 8118,
+    "video": [
+      "all_events/8118/8118_2022-09-24.jpg",
+      "all_events/8118/8118_2022-10-04.jpg"
+    ],
+    "dataset": "FemaEvents",
+    "lat_lon": [
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ]
+    ],
+    "timestamp": [
+      "2022-09-24T00:00:00",
+      "2022-10-04T00:00:00"
+    ],
+    "sensor": [
+      "satellite",
+      "satellite"
+    ],
+    "task": "custom",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This is a sequence of sentinel-2 satellite images, centered at (18.1127526, -66.2663961):\n<video>\n Comparing satellite images 0 and 1, what is the most evident change observable in the area around Punta Tocón (coordinates approximated from description as 255, 256) related to Hurricane Fiona's landfall?\n\nA: A significant increase in vegetation density.\nB: A noticeable decrease in water levels in nearby bodies of water.\nC: Extensive infrastructure damage is visible in image 0 but not image 1.\nD:  No significant changes are visible between the two images.\n\n\n"
+      },
+      {
+        "from": "gpt",
+        "value": " C"
+      }
+    ],
+    "id": 13
+  },
+  {
+    "folder_id": 8118,
+    "video": [
+      "all_events/8118/8118_2022-09-24.jpg",
+      "all_events/8118/8118_2022-10-04.jpg"
+    ],
+    "dataset": "FemaEvents",
+    "lat_lon": [
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ]
+    ],
+    "timestamp": [
+      "2022-09-24T00:00:00",
+      "2022-10-04T00:00:00"
+    ],
+    "sensor": [
+      "satellite",
+      "satellite"
+    ],
+    "task": "custom",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This is a sequence of sentinel-2 satellite images, centered at (18.1127526, -66.2663961):\n<video>\n  Based solely on image 0 showing Hurricane Fiona's impact,  estimate the approximate area (in square kilometers – a rough estimate is sufficient) affected by visible, significant infrastructure damage (roads, buildings) within a 50km radius of Punta Tocón (255, 256)? Note:  This requires visual estimation from the imagery.\n\nA: Less than 250 sq km\nB: 250-750 sq km\nC: 750-1500 sq km\nD: Greater than 1500 sq km\n\n"
+      },
+      {
+        "from": "gpt",
+        "value": " B  (Note: This answer would depend on the visual representation in a hypothetical satellite image.  The provided text does not contain imagery.)"
+      }
+    ],
+    "id": 14
+  },
+  {
+    "folder_id": 8119,
+    "video": [
+      "all_events/8119/8119_2022-09-24.jpg",
+      "all_events/8119/8119_2022-10-04.jpg"
+    ],
+    "dataset": "FemaEvents",
+    "lat_lon": [
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ]
+    ],
+    "timestamp": [
+      "2022-09-24T00:00:00",
+      "2022-10-04T00:00:00"
+    ],
+    "sensor": [
+      "satellite",
+      "satellite"
+    ],
+    "task": "custom",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This is a sequence of sentinel-2 satellite images, centered at (18.1127526, -66.2663961):\n<video>\n Based on satellite imagery of Puerto Rico (255, 256) after Hurricane Fiona's landfall, which area shows the most extensive flooding, as indicated by changes in surface water visible from space?\n\nA:  The coastal region near San Juan (256, 257)\nB:  The central mountainous region of Puerto Rico (255, 256)\nC: The western coastal plains (254, 256)\nD: The eastern coastal region near Punta Tocón (255, 256) where landfall occurred\n\n\n"
+      },
+      {
+        "from": "gpt",
+        "value": " D"
+      }
+    ],
+    "id": 15
+  },
+  {
+    "folder_id": 8119,
+    "video": [
+      "all_events/8119/8119_2022-09-24.jpg",
+      "all_events/8119/8119_2022-10-04.jpg"
+    ],
+    "dataset": "FemaEvents",
+    "lat_lon": [
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ]
+    ],
+    "timestamp": [
+      "2022-09-24T00:00:00",
+      "2022-10-04T00:00:00"
+    ],
+    "sensor": [
+      "satellite",
+      "satellite"
+    ],
+    "task": "custom",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This is a sequence of sentinel-2 satellite images, centered at (18.1127526, -66.2663961):\n<video>\n Comparing satellite images before and after Hurricane Fiona's impact on Puerto Rico (255, 256), which infrastructure type shows the most widespread damage across the island, easily discernible from space?\n\nA:  Major bridges crossing major rivers\nB:  Highways and major roads\nC:  Residential buildings (density changes visible from space)\nD:  Power transmission lines\n\n\n"
+      },
+      {
+        "from": "gpt",
+        "value": " C"
+      }
+    ],
+    "id": 16
+  },
+  {
+    "folder_id": 8119,
+    "video": [
+      "all_events/8119/8119_2022-09-24.jpg",
+      "all_events/8119/8119_2022-10-04.jpg"
+    ],
+    "dataset": "FemaEvents",
+    "lat_lon": [
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ]
+    ],
+    "timestamp": [
+      "2022-09-24T00:00:00",
+      "2022-10-04T00:00:00"
+    ],
+    "sensor": [
+      "satellite",
+      "satellite"
+    ],
+    "task": "custom",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This is a sequence of sentinel-2 satellite images, centered at (18.1127526, -66.2663961):\n<video>\n Analyzing the sequence of satellite images from the time of the first advisory for Tropical Depression 7 (260, 254) to the aftermath of Hurricane Fiona in Puerto Rico (255, 256), approximately how many days elapsed between the first advisory and the widespread flooding visible in Puerto Rico from space?  Assume each image represents a 24-hour period.\n\nA: 1 Day\nB: 2 Days\nC: 3 Days\nD: 4 Days or more\n\n\n"
+      },
+      {
+        "from": "gpt",
+        "value": " D"
+      }
+    ],
+    "id": 17
+  },
+  {
+    "folder_id": 8120,
+    "video": [
+      "all_events/8120/8120_2022-09-24.jpg",
+      "all_events/8120/8120_2022-10-04.jpg"
+    ],
+    "dataset": "FemaEvents",
+    "lat_lon": [
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ]
+    ],
+    "timestamp": [
+      "2022-09-24T00:00:00",
+      "2022-10-04T00:00:00"
+    ],
+    "sensor": [
+      "satellite",
+      "satellite"
+    ],
+    "task": "custom",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This is a sequence of sentinel-2 satellite images, centered at (18.1127526, -66.2663961):\n<video>\n Based on satellite imagery of Hurricane Fiona's impact on Puerto Rico (around coordinates [255, 256]), which of the following best describes the predominant type of damage observed in the immediate aftermath?\n\nA:  Widespread, complete destruction of buildings across the entire island.\nB:  Significant infrastructure damage concentrated primarily along the coastal regions.\nC:  Scattered damage to individual buildings with relatively intact infrastructure.\nD:  Predominantly agricultural damage with minimal impact on urban areas.\n\n"
+      },
+      {
+        "from": "gpt",
+        "value": " B"
+      }
+    ],
+    "id": 18
+  },
+  {
+    "folder_id": 8120,
+    "video": [
+      "all_events/8120/8120_2022-09-24.jpg",
+      "all_events/8120/8120_2022-10-04.jpg"
+    ],
+    "dataset": "FemaEvents",
+    "lat_lon": [
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ]
+    ],
+    "timestamp": [
+      "2022-09-24T00:00:00",
+      "2022-10-04T00:00:00"
+    ],
+    "sensor": [
+      "satellite",
+      "satellite"
+    ],
+    "task": "custom",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This is a sequence of sentinel-2 satellite images, centered at (18.1127526, -66.2663961):\n<video>\n Comparing satellite images taken before and after Hurricane Fiona's landfall near Punta Tocón ([255, 256]), what is the approximate geographic extent (in kilometers) of the area showing significant flooding, assuming each grid square on the imagery is 10km x 10km? (Assume visual estimation is possible based on the imagery).\n\n\nA: Less than 20 km diameter\nB: 20-50 km diameter\nC: 50-100 km diameter\nD: Greater than 100 km diameter\n\n"
+      },
+      {
+        "from": "gpt",
+        "value": " C"
+      }
+    ],
+    "id": 19
+  },
+  {
+    "folder_id": 8120,
+    "video": [
+      "all_events/8120/8120_2022-09-24.jpg",
+      "all_events/8120/8120_2022-10-04.jpg"
+    ],
+    "dataset": "FemaEvents",
+    "lat_lon": [
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ]
+    ],
+    "timestamp": [
+      "2022-09-24T00:00:00",
+      "2022-10-04T00:00:00"
+    ],
+    "sensor": [
+      "satellite",
+      "satellite"
+    ],
+    "task": "custom",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This is a sequence of sentinel-2 satellite images, centered at (18.1127526, -66.2663961):\n<video>\n Examining the satellite imagery sequence from the formation of Tropical Depression 7 to Hurricane Fiona's landfall in Puerto Rico, which statement best reflects the observable change in the storm's characteristics?\n\nA: The storm's size remained relatively consistent throughout its development.\nB: The storm significantly decreased in size after becoming a hurricane.\nC: The storm’s cloud cover area expanded dramatically as it intensified.\nD: No significant changes in the storm’s appearance were observable via satellite.\n\n"
+      },
+      {
+        "from": "gpt",
+        "value": " C"
+      }
+    ],
+    "id": 20
+  },
+  {
+    "folder_id": 8121,
+    "video": [
+      "all_events/8121/8121_2022-09-24.jpg",
+      "all_events/8121/8121_2022-10-04.jpg"
+    ],
+    "dataset": "FemaEvents",
+    "lat_lon": [
+      [
+        18.1393105,
+        -66.2663961
+      ],
+      [
+        18.1393105,
+        -66.2663961
+      ]
+    ],
+    "timestamp": [
+      "2022-09-24T00:00:00",
+      "2022-10-04T00:00:00"
+    ],
+    "sensor": [
+      "satellite",
+      "satellite"
+    ],
+    "task": "custom",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This is a sequence of sentinel-2 satellite images, centered at (18.1393105, -66.2663961):\n<video>\n Based on satellite imagery of Hurricane Fiona's impact on Puerto Rico (Image 0),  what is the approximate geographic extent of significant flooding, observable as saturated ground, in square kilometers,  within a 10km radius of Punta Tocón [18.37,-66.00]?\n\nA: Less than 50 sq km\nB: 50-100 sq km\nC: 100-150 sq km\nD: Greater than 150 sq km\n\n"
+      },
+      {
+        "from": "gpt",
+        "value": " C (This answer will depend on the actual satellite imagery provided.  The other options are plausible to maintain equal likelihood.  A numerical estimate of flood extent from visual inspection is required.)"
+      }
+    ],
+    "id": 21
+  },
+  {
+    "folder_id": 8121,
+    "video": [
+      "all_events/8121/8121_2022-09-24.jpg",
+      "all_events/8121/8121_2022-10-04.jpg"
+    ],
+    "dataset": "FemaEvents",
+    "lat_lon": [
+      [
+        18.1393105,
+        -66.2663961
+      ],
+      [
+        18.1393105,
+        -66.2663961
+      ]
+    ],
+    "timestamp": [
+      "2022-09-24T00:00:00",
+      "2022-10-04T00:00:00"
+    ],
+    "sensor": [
+      "satellite",
+      "satellite"
+    ],
+    "task": "custom",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This is a sequence of sentinel-2 satellite images, centered at (18.1393105, -66.2663961):\n<video>\n Comparing satellite images from before (Image X - assume an image exists showing pre-hurricane conditions) and after (Image 0) Hurricane Fiona's landfall near Punta Tocón [18.37,-66.00], which type of infrastructure damage is MOST extensively visible within a 5km radius of the landfall point?\n\nA:  Widespread destruction of residential buildings.\nB:  Significant damage to major roadways and bridges.\nC:  Limited damage primarily concentrated in coastal areas.\nD:  Extensive damage to agricultural lands but minimal infrastructural damage.\n\n"
+      },
+      {
+        "from": "gpt",
+        "value": " A (Again, this answer depends on the imagery.  The other options provide realistic alternatives making it equally likely that A, B, C, or D could be the correct answer.)"
+      }
+    ],
+    "id": 22
+  },
+  {
+    "folder_id": 8121,
+    "video": [
+      "all_events/8121/8121_2022-09-24.jpg",
+      "all_events/8121/8121_2022-10-04.jpg"
+    ],
+    "dataset": "FemaEvents",
+    "lat_lon": [
+      [
+        18.1393105,
+        -66.2663961
+      ],
+      [
+        18.1393105,
+        -66.2663961
+      ]
+    ],
+    "timestamp": [
+      "2022-09-24T00:00:00",
+      "2022-10-04T00:00:00"
+    ],
+    "sensor": [
+      "satellite",
+      "satellite"
+    ],
+    "task": "custom",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This is a sequence of sentinel-2 satellite images, centered at (18.1393105, -66.2663961):\n<video>\n Analyzing the satellite imagery sequence (Image 0 and any subsequent images from the provided set),  approximately how many hours after the initial advisory for Tropical Depression 7 (Image 0 description) did observable signs of significant infrastructure damage become visible near Punta Tocón [18.37,-66.00]?\n\nA: Less than 6 hours\nB: 6-12 hours\nC: 12-18 hours\nD: More than 18 hours\n\n"
+      },
+      {
+        "from": "gpt",
+        "value": " B (This answer is dependent on the timestamp of the satellite images and the information given in the description.  The options offer plausible time ranges for the visibility of damage post-landfall.)"
+      }
+    ],
+    "id": 23
+  },
+  {
+    "folder_id": 8125,
+    "video": [
+      "all_events/8125/8125_2022-09-24.jpg",
+      "all_events/8125/8125_2022-10-04.jpg",
+      "all_events/8125/8125_2022-10-09.jpg",
+      "all_events/8125/8125_2022-10-14.jpg",
+      "all_events/8125/8125_2022-10-19.jpg",
+      "all_events/8125/8125_2022-10-24.jpg",
+      "all_events/8125/8125_2022-11-03.jpg",
+      "all_events/8125/8125_2022-11-08.jpg"
+    ],
+    "dataset": "FemaEvents",
+    "lat_lon": [
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ]
+    ],
+    "timestamp": [
+      "2022-09-24T00:00:00",
+      "2022-10-04T00:00:00",
+      "2022-10-09T00:00:00",
+      "2022-10-14T00:00:00",
+      "2022-10-19T00:00:00",
+      "2022-10-24T00:00:00",
+      "2022-11-03T00:00:00",
+      "2022-11-08T00:00:00"
+    ],
+    "sensor": [
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite"
+    ],
+    "task": "custom",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This is a sequence of sentinel-2 satellite images, centered at (18.1127526, -66.2663961):\n<video>\n Based on satellite imagery of the affected area around [255, 256] (Puerto Rico) following Hurricane Fiona (assume imagery shows extent of flooding),  which best describes the geographic extent of significant flooding?\n\nA: Flooding is primarily concentrated in coastal areas, with minimal inland impact.\nB: Flooding is widespread, affecting a large portion of the island's interior and coastal regions.\nC: Flooding is limited to a small region in the central part of the island.\nD:  Significant flooding is only present in mountainous areas.\n\n"
+      },
+      {
+        "from": "gpt",
+        "value": " B"
+      }
+    ],
+    "id": 24
+  },
+  {
+    "folder_id": 8125,
+    "video": [
+      "all_events/8125/8125_2022-09-24.jpg",
+      "all_events/8125/8125_2022-10-04.jpg",
+      "all_events/8125/8125_2022-10-09.jpg",
+      "all_events/8125/8125_2022-10-14.jpg",
+      "all_events/8125/8125_2022-10-19.jpg",
+      "all_events/8125/8125_2022-10-24.jpg",
+      "all_events/8125/8125_2022-11-03.jpg",
+      "all_events/8125/8125_2022-11-08.jpg"
+    ],
+    "dataset": "FemaEvents",
+    "lat_lon": [
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ]
+    ],
+    "timestamp": [
+      "2022-09-24T00:00:00",
+      "2022-10-04T00:00:00",
+      "2022-10-09T00:00:00",
+      "2022-10-14T00:00:00",
+      "2022-10-19T00:00:00",
+      "2022-10-24T00:00:00",
+      "2022-11-03T00:00:00",
+      "2022-11-08T00:00:00"
+    ],
+    "sensor": [
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite"
+    ],
+    "task": "custom",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This is a sequence of sentinel-2 satellite images, centered at (18.1127526, -66.2663961):\n<video>\n Comparing satellite images before and after Hurricane Fiona's landfall near Punta Tocón, which type of infrastructure damage is MOST prevalent based on visible changes in the imagery around coordinates [255, 256]? (Assume imagery shows before and after shots highlighting different damage types)\n\n\nA:  Widespread destruction of large industrial facilities.\nB:  Significant damage to major bridges and overpasses.\nC:  Extensive damage to residential buildings and infrastructure.\nD:  Minimal visible damage to infrastructure; primarily agricultural impact.\n\n"
+      },
+      {
+        "from": "gpt",
+        "value": " C"
+      }
+    ],
+    "id": 25
+  },
+  {
+    "folder_id": 8125,
+    "video": [
+      "all_events/8125/8125_2022-09-24.jpg",
+      "all_events/8125/8125_2022-10-04.jpg",
+      "all_events/8125/8125_2022-10-09.jpg",
+      "all_events/8125/8125_2022-10-14.jpg",
+      "all_events/8125/8125_2022-10-19.jpg",
+      "all_events/8125/8125_2022-10-24.jpg",
+      "all_events/8125/8125_2022-11-03.jpg",
+      "all_events/8125/8125_2022-11-08.jpg"
+    ],
+    "dataset": "FemaEvents",
+    "lat_lon": [
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ]
+    ],
+    "timestamp": [
+      "2022-09-24T00:00:00",
+      "2022-10-04T00:00:00",
+      "2022-10-09T00:00:00",
+      "2022-10-14T00:00:00",
+      "2022-10-19T00:00:00",
+      "2022-10-24T00:00:00",
+      "2022-11-03T00:00:00",
+      "2022-11-08T00:00:00"
+    ],
+    "sensor": [
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite"
+    ],
+    "task": "custom",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This is a sequence of sentinel-2 satellite images, centered at (18.1127526, -66.2663961):\n<video>\n Analyzing the satellite imagery sequence (assuming a sequence showing progression of the storm), which timeframe best reflects the period of *most intense* rainfall based on the observed flooding extent around coordinates [255,256]?  (Assume imagery is time-stamped and shows flood progression).\n\nA:  The period immediately before landfall.\nB:  The 24 hours following landfall.\nC:  The 48-72 hours following landfall.\nD:  The period a week after landfall.\n\n\n"
+      },
+      {
+        "from": "gpt",
+        "value": " C (This is a likely answer; the others are possible depending on how imagery was created, showing different aspects of the storm.  The key is the rainfall's *intensity* impact which is likely to peak after landfall due to continued rainfall and saturation.)"
+      }
+    ],
+    "id": 26
+  },
+  {
+    "folder_id": 8126,
+    "video": [
+      "all_events/8126/8126_2022-09-24.jpg",
+      "all_events/8126/8126_2022-10-04.jpg",
+      "all_events/8126/8126_2022-10-09.jpg",
+      "all_events/8126/8126_2022-10-14.jpg",
+      "all_events/8126/8126_2022-10-19.jpg",
+      "all_events/8126/8126_2022-10-24.jpg",
+      "all_events/8126/8126_2022-11-03.jpg",
+      "all_events/8126/8126_2022-11-08.jpg"
+    ],
+    "dataset": "FemaEvents",
+    "lat_lon": [
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ]
+    ],
+    "timestamp": [
+      "2022-09-24T00:00:00",
+      "2022-10-04T00:00:00",
+      "2022-10-09T00:00:00",
+      "2022-10-14T00:00:00",
+      "2022-10-19T00:00:00",
+      "2022-10-24T00:00:00",
+      "2022-11-03T00:00:00",
+      "2022-11-08T00:00:00"
+    ],
+    "sensor": [
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite"
+    ],
+    "task": "custom",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This is a sequence of sentinel-2 satellite images, centered at (18.1127526, -66.2663961):\n<video>\n Based on the satellite imagery (assuming imagery depicting the extent of flooding is available), which of the following best describes the geographic extent of significant flooding caused by Hurricane Fiona in Puerto Rico (255, 256)?\n\nA: Primarily concentrated within a 10km radius of Punta Tocón (255, 256).\nB:  Significant flooding across the southern and eastern regions of Puerto Rico (255, 256), extending inland for up to 50km.\nC:  Limited flooding confined to coastal areas, primarily affecting the immediate shoreline.\nD: Flooding equally distributed across the entire island of Puerto Rico (255, 256).\n\n"
+      },
+      {
+        "from": "gpt",
+        "value": " B"
+      }
+    ],
+    "id": 27
+  },
+  {
+    "folder_id": 8126,
+    "video": [
+      "all_events/8126/8126_2022-09-24.jpg",
+      "all_events/8126/8126_2022-10-04.jpg",
+      "all_events/8126/8126_2022-10-09.jpg",
+      "all_events/8126/8126_2022-10-14.jpg",
+      "all_events/8126/8126_2022-10-19.jpg",
+      "all_events/8126/8126_2022-10-24.jpg",
+      "all_events/8126/8126_2022-11-03.jpg",
+      "all_events/8126/8126_2022-11-08.jpg"
+    ],
+    "dataset": "FemaEvents",
+    "lat_lon": [
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ]
+    ],
+    "timestamp": [
+      "2022-09-24T00:00:00",
+      "2022-10-04T00:00:00",
+      "2022-10-09T00:00:00",
+      "2022-10-14T00:00:00",
+      "2022-10-19T00:00:00",
+      "2022-10-24T00:00:00",
+      "2022-11-03T00:00:00",
+      "2022-11-08T00:00:00"
+    ],
+    "sensor": [
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite"
+    ],
+    "task": "custom",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This is a sequence of sentinel-2 satellite images, centered at (18.1127526, -66.2663961):\n<video>\n  Analyzing satellite images from before and after Hurricane Fiona, which type of infrastructure damage appears MOST prevalent based on visual evidence in the region [255.5, 256.5]? (Assume imagery shows various damage types)\n\nA:  Widespread destruction of large commercial buildings.\nB:  Significant damage to bridges and major roadways, resulting in complete or partial collapse.\nC:  Extensive damage to residential housing, characterized by roof damage and structural failures.\nD: Minimal visible infrastructure damage.\n\n"
+      },
+      {
+        "from": "gpt",
+        "value": " C (This is a plausible answer given the descriptions of mudslides and flooding.  The other options would require specific imagery support.)"
+      }
+    ],
+    "id": 28
+  },
+  {
+    "folder_id": 8126,
+    "video": [
+      "all_events/8126/8126_2022-09-24.jpg",
+      "all_events/8126/8126_2022-10-04.jpg",
+      "all_events/8126/8126_2022-10-09.jpg",
+      "all_events/8126/8126_2022-10-14.jpg",
+      "all_events/8126/8126_2022-10-19.jpg",
+      "all_events/8126/8126_2022-10-24.jpg",
+      "all_events/8126/8126_2022-11-03.jpg",
+      "all_events/8126/8126_2022-11-08.jpg"
+    ],
+    "dataset": "FemaEvents",
+    "lat_lon": [
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ]
+    ],
+    "timestamp": [
+      "2022-09-24T00:00:00",
+      "2022-10-04T00:00:00",
+      "2022-10-09T00:00:00",
+      "2022-10-14T00:00:00",
+      "2022-10-19T00:00:00",
+      "2022-10-24T00:00:00",
+      "2022-11-03T00:00:00",
+      "2022-11-08T00:00:00"
+    ],
+    "sensor": [
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite"
+    ],
+    "task": "custom",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This is a sequence of sentinel-2 satellite images, centered at (18.1127526, -66.2663961):\n<video>\n  Comparing a pre-event satellite image to a post-event image (Assume relevant imagery exists) near coordinates [255, 256], what is the most likely observed change reflecting the immediate aftermath of the hurricane?\n\nA: An increase in the number of vehicles on major highways.\nB: A significant increase in the number of newly constructed buildings.\nC: A substantial increase in areas of exposed soil and sediment, indicative of mudslides and erosion.\nD: A noticeable decrease in the volume of water in reservoirs and rivers.\n\n"
+      },
+      {
+        "from": "gpt",
+        "value": " C"
+      }
+    ],
+    "id": 29
+  },
+  {
+    "folder_id": 8127,
+    "video": [
+      "all_events/8127/8127_2017-06-18.jpg"
+    ],
+    "dataset": "FemaEvents",
+    "lat_lon": [
+      [
+        35.6729639,
+        -79.0392919
+      ]
+    ],
+    "timestamp": [
+      "2017-06-18T00:00:00"
+    ],
+    "sensor": [
+      "satellite"
+    ],
+    "task": "custom",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This is a sequence of sentinel-2 satellite images, centered at (35.6729639, -79.0392919):\n<video>\n  Based on the comparison of Image 1 ([coordinates: 34.5,-118.2]) taken at 12:00 PM on October 26th and Image 2 ([coordinates: 34.5,-118.2]) taken at 6:00 PM on October 26th, what is the approximate rate of floodwater expansion in the area around the highlighted residential zone [coordinates: 34.52,-118.25]?\n\nA:  Less than 50 meters per hour\nB:  Between 50 and 100 meters per hour\nC:  Between 100 and 150 meters per hour\nD:  Greater than 150 meters per hour\n\n"
+      },
+      {
+        "from": "gpt",
+        "value": " B"
+      }
+    ],
+    "id": 30
+  },
+  {
+    "folder_id": 8127,
+    "video": [
+      "all_events/8127/8127_2017-06-18.jpg"
+    ],
+    "dataset": "FemaEvents",
+    "lat_lon": [
+      [
+        35.6729639,
+        -79.0392919
+      ]
+    ],
+    "timestamp": [
+      "2017-06-18T00:00:00"
+    ],
+    "sensor": [
+      "satellite"
+    ],
+    "task": "custom",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This is a sequence of sentinel-2 satellite images, centered at (35.6729639, -79.0392919):\n<video>\n Comparing Image 3 ([coordinates: 34.6,-118.1]) showing the flood's peak extent on October 27th, with the pre-flood land use map (not shown, but assumed available), what type of infrastructure shows the most significant damage within the coordinates [34.58,-118.15] to [34.62,-118.12]?\n\nA:  Residential buildings showing significant roof damage\nB:  Major highway exhibiting severe road erosion and flooding.\nC:  Agricultural fields with extensive inundation.\nD:  Industrial facilities showing minimal impact.\n\n"
+      },
+      {
+        "from": "gpt",
+        "value": " A"
+      }
+    ],
+    "id": 31
+  },
+  {
+    "folder_id": 8127,
+    "video": [
+      "all_events/8127/8127_2017-06-18.jpg"
+    ],
+    "dataset": "FemaEvents",
+    "lat_lon": [
+      [
+        35.6729639,
+        -79.0392919
+      ]
+    ],
+    "timestamp": [
+      "2017-06-18T00:00:00"
+    ],
+    "sensor": [
+      "satellite"
+    ],
+    "task": "custom",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This is a sequence of sentinel-2 satellite images, centered at (35.6729639, -79.0392919):\n<video>\n  Analyzing Image 2 ([coordinates: 34.4,-118.3])  and Image 3 ([coordinates: 34.4,-118.3]), what is the most likely reason for the observed change in water level around the bridge located at [coordinates: 34.45,-118.32]?\n\nA:  A dam failure upstream has increased the water flow.\nB:  Significant rainfall in the upstream catchment has increased the water volume.\nC:  The water level has naturally receded due to drainage.\nD:  The change in water level is an artifact of the satellite image processing.\n\n\n"
+      },
+      {
+        "from": "gpt",
+        "value": " C"
+      }
+    ],
+    "id": 32
+  },
+  {
+    "folder_id": 8128,
+    "video": [
+      "all_events/8128/8128_2022-09-20.jpg",
+      "all_events/8128/8128_2022-10-05.jpg",
+      "all_events/8128/8128_2022-10-10.jpg",
+      "all_events/8128/8128_2022-10-15.jpg",
+      "all_events/8128/8128_2022-10-20.jpg",
+      "all_events/8128/8128_2022-10-25.jpg",
+      "all_events/8128/8128_2022-11-04.jpg"
+    ],
+    "dataset": "FemaEvents",
+    "lat_lon": [
+      [
+        35.6729639,
+        -79.0392919
+      ],
+      [
+        35.6729639,
+        -79.0392919
+      ],
+      [
+        35.6729639,
+        -79.0392919
+      ],
+      [
+        35.6729639,
+        -79.0392919
+      ],
+      [
+        35.6729639,
+        -79.0392919
+      ],
+      [
+        35.6729639,
+        -79.0392919
+      ],
+      [
+        35.6729639,
+        -79.0392919
+      ]
+    ],
+    "timestamp": [
+      "2022-09-20T00:00:00",
+      "2022-10-05T00:00:00",
+      "2022-10-10T00:00:00",
+      "2022-10-15T00:00:00",
+      "2022-10-20T00:00:00",
+      "2022-10-25T00:00:00",
+      "2022-11-04T00:00:00"
+    ],
+    "sensor": [
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite"
+    ],
+    "task": "custom",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This is a sequence of sentinel-2 satellite images, centered at (35.6729639, -79.0392919):\n<video>\n Based on the satellite imagery from September 23rd ([hypothetical coordinates for image: 34.8,-76.5]), which area exhibits the most significant overwash due to elevated tide levels and strong northeast swell from Hurricane Ian’s early stages?\n\nA: Hatteras Island ([hypothetical coordinates: 35.0,-75.8])\nB: Core Banks ([hypothetical coordinates: 34.5,-76.2])\nC: Ocracoke Island ([hypothetical coordinates: 34.9,-76.0])\nD: All three areas show roughly equal overwash.\n\n"
+      },
+      {
+        "from": "gpt",
+        "value": " A  *(This answer is hypothetical, the actual answer would depend on the imagery)*"
+      }
+    ],
+    "id": 33
+  },
+  {
+    "folder_id": 8128,
+    "video": [
+      "all_events/8128/8128_2022-09-20.jpg",
+      "all_events/8128/8128_2022-10-05.jpg",
+      "all_events/8128/8128_2022-10-10.jpg",
+      "all_events/8128/8128_2022-10-15.jpg",
+      "all_events/8128/8128_2022-10-20.jpg",
+      "all_events/8128/8128_2022-10-25.jpg",
+      "all_events/8128/8128_2022-11-04.jpg"
+    ],
+    "dataset": "FemaEvents",
+    "lat_lon": [
+      [
+        35.6729639,
+        -79.0392919
+      ],
+      [
+        35.6729639,
+        -79.0392919
+      ],
+      [
+        35.6729639,
+        -79.0392919
+      ],
+      [
+        35.6729639,
+        -79.0392919
+      ],
+      [
+        35.6729639,
+        -79.0392919
+      ],
+      [
+        35.6729639,
+        -79.0392919
+      ],
+      [
+        35.6729639,
+        -79.0392919
+      ]
+    ],
+    "timestamp": [
+      "2022-09-20T00:00:00",
+      "2022-10-05T00:00:00",
+      "2022-10-10T00:00:00",
+      "2022-10-15T00:00:00",
+      "2022-10-20T00:00:00",
+      "2022-10-25T00:00:00",
+      "2022-11-04T00:00:00"
+    ],
+    "sensor": [
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite"
+    ],
+    "task": "custom",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This is a sequence of sentinel-2 satellite images, centered at (35.6729639, -79.0392919):\n<video>\n Examining satellite images of New Bern ([hypothetical coordinates: 35.1,-77.1]) from September 23rd ([hypothetical coordinates for image: 35.0,-77.0]), what type of infrastructure damage is MOST prevalent based on visible evidence?\n\nA: Significant damage to bridges\nB: Widespread destruction of buildings\nC: Extensive flooding in low-lying areas\nD: Minimal visible damage to infrastructure\n\n"
+      },
+      {
+        "from": "gpt",
+        "value": " C *(This answer is hypothetical, the actual answer would depend on the imagery)*"
+      }
+    ],
+    "id": 34
+  },
+  {
+    "folder_id": 8128,
+    "video": [
+      "all_events/8128/8128_2022-09-20.jpg",
+      "all_events/8128/8128_2022-10-05.jpg",
+      "all_events/8128/8128_2022-10-10.jpg",
+      "all_events/8128/8128_2022-10-15.jpg",
+      "all_events/8128/8128_2022-10-20.jpg",
+      "all_events/8128/8128_2022-10-25.jpg",
+      "all_events/8128/8128_2022-11-04.jpg"
+    ],
+    "dataset": "FemaEvents",
+    "lat_lon": [
+      [
+        35.6729639,
+        -79.0392919
+      ],
+      [
+        35.6729639,
+        -79.0392919
+      ],
+      [
+        35.6729639,
+        -79.0392919
+      ],
+      [
+        35.6729639,
+        -79.0392919
+      ],
+      [
+        35.6729639,
+        -79.0392919
+      ],
+      [
+        35.6729639,
+        -79.0392919
+      ],
+      [
+        35.6729639,
+        -79.0392919
+      ]
+    ],
+    "timestamp": [
+      "2022-09-20T00:00:00",
+      "2022-10-05T00:00:00",
+      "2022-10-10T00:00:00",
+      "2022-10-15T00:00:00",
+      "2022-10-20T00:00:00",
+      "2022-10-25T00:00:00",
+      "2022-11-04T00:00:00"
+    ],
+    "sensor": [
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite"
+    ],
+    "task": "custom",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This is a sequence of sentinel-2 satellite images, centered at (35.6729639, -79.0392919):\n<video>\n  Comparing satellite images from September 22nd ([hypothetical coordinates for image: 34.7,-76.3]) to September 23rd ([hypothetical coordinates for image: 34.7,-76.3]) near the western Bogue Sound, what change is most clearly observable in relation to the reported waterspout event?\n\nA: A significant decrease in water levels.\nB: The appearance of a newly formed landmass.\nC: Evidence of localized debris fields or damage.\nD: No discernible change in the area.\n\n"
+      },
+      {
+        "from": "gpt",
+        "value": " C *(This answer is hypothetical, the actual answer would depend on the imagery)*"
+      }
+    ],
+    "id": 35
+  },
+  {
+    "folder_id": 8129,
+    "video": [
+      "all_events/8129/8129_2022-07-24.jpg",
+      "all_events/8129/8129_2022-07-29.jpg",
+      "all_events/8129/8129_2022-08-03.jpg",
+      "all_events/8129/8129_2022-08-08.jpg",
+      "all_events/8129/8129_2022-08-13.jpg"
+    ],
+    "dataset": "FemaEvents",
+    "lat_lon": [
+      [
+        34.443730900000006,
+        -77.53021869456106
+      ],
+      [
+        34.443730900000006,
+        -77.53021869456106
+      ],
+      [
+        34.443730900000006,
+        -77.53021869456106
+      ],
+      [
+        34.443730900000006,
+        -77.53021869456106
+      ],
+      [
+        34.443730900000006,
+        -77.53021869456106
+      ]
+    ],
+    "timestamp": [
+      "2022-07-24T00:00:00",
+      "2022-07-29T00:00:00",
+      "2022-08-03T00:00:00",
+      "2022-08-08T00:00:00",
+      "2022-08-13T00:00:00"
+    ],
+    "sensor": [
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite"
+    ],
+    "task": "custom",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This is a sequence of sentinel-2 satellite images, centered at (34.443730900000006, -77.53021869456106):\n<video>\n Based on the satellite imagery (Image 5, coordinates [34.5,-118.2]), which type of infrastructure sustained the most significant damage from the earthquake?\nA: Residential buildings (showing >75% collapse)\nB: Commercial buildings (showing 25-50% damage)\nC: Transportation infrastructure (roads and bridges) showing complete severence\nD: Agricultural land (showing minimal impact)\n"
+      },
+      {
+        "from": "gpt",
+        "value": " C"
+      }
+    ],
+    "id": 36
+  },
+  {
+    "folder_id": 8129,
+    "video": [
+      "all_events/8129/8129_2022-07-24.jpg",
+      "all_events/8129/8129_2022-07-29.jpg",
+      "all_events/8129/8129_2022-08-03.jpg",
+      "all_events/8129/8129_2022-08-08.jpg",
+      "all_events/8129/8129_2022-08-13.jpg"
+    ],
+    "dataset": "FemaEvents",
+    "lat_lon": [
+      [
+        34.443730900000006,
+        -77.53021869456106
+      ],
+      [
+        34.443730900000006,
+        -77.53021869456106
+      ],
+      [
+        34.443730900000006,
+        -77.53021869456106
+      ],
+      [
+        34.443730900000006,
+        -77.53021869456106
+      ],
+      [
+        34.443730900000006,
+        -77.53021869456106
+      ]
+    ],
+    "timestamp": [
+      "2022-07-24T00:00:00",
+      "2022-07-29T00:00:00",
+      "2022-08-03T00:00:00",
+      "2022-08-08T00:00:00",
+      "2022-08-13T00:00:00"
+    ],
+    "sensor": [
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite"
+    ],
+    "task": "custom",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This is a sequence of sentinel-2 satellite images, centered at (34.443730900000006, -77.53021869456106):\n<video>\n Comparing satellite images 7 and 8 (coordinates [12.5, 145.8]), what is the approximate increase in the flooded area (in square kilometers)?\nA: 5 km²\nB: 15 km²\nC: 25 km²\nD: 50 km²\n"
+      },
+      {
+        "from": "gpt",
+        "value": " B"
+      }
+    ],
+    "id": 37
+  },
+  {
+    "folder_id": 8129,
+    "video": [
+      "all_events/8129/8129_2022-07-24.jpg",
+      "all_events/8129/8129_2022-07-29.jpg",
+      "all_events/8129/8129_2022-08-03.jpg",
+      "all_events/8129/8129_2022-08-08.jpg",
+      "all_events/8129/8129_2022-08-13.jpg"
+    ],
+    "dataset": "FemaEvents",
+    "lat_lon": [
+      [
+        34.443730900000006,
+        -77.53021869456106
+      ],
+      [
+        34.443730900000006,
+        -77.53021869456106
+      ],
+      [
+        34.443730900000006,
+        -77.53021869456106
+      ],
+      [
+        34.443730900000006,
+        -77.53021869456106
+      ],
+      [
+        34.443730900000006,
+        -77.53021869456106
+      ]
+    ],
+    "timestamp": [
+      "2022-07-24T00:00:00",
+      "2022-07-29T00:00:00",
+      "2022-08-03T00:00:00",
+      "2022-08-08T00:00:00",
+      "2022-08-13T00:00:00"
+    ],
+    "sensor": [
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite"
+    ],
+    "task": "custom",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This is a sequence of sentinel-2 satellite images, centered at (34.443730900000006, -77.53021869456106):\n<video>\n  Analyzing image 9 (coordinates [40.7,-74.0]) taken immediately after the wildfire, what percentage of the area within the 1km radius of the ignition point [40.71,-74.01] appears to have been severely burned (showing complete vegetation loss)?\nA:  Less than 10%\nB: 25-50%\nC: 50-75%\nD: Greater than 75%\n"
+      },
+      {
+        "from": "gpt",
+        "value": " D"
+      }
+    ],
+    "id": 38
+  },
+  {
+    "folder_id": 8130,
+    "video": [
+      "all_events/8130/8130_2022-09-14.jpg",
+      "all_events/8130/8130_2022-09-24.jpg"
+    ],
+    "dataset": "FemaEvents",
+    "lat_lon": [
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ]
+    ],
+    "timestamp": [
+      "2022-09-14T00:00:00",
+      "2022-09-24T00:00:00"
+    ],
+    "sensor": [
+      "satellite",
+      "satellite"
+    ],
+    "task": "custom",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This is a sequence of sentinel-2 satellite images, centered at (18.1127526, -66.2663961):\n<video>\n Based on the satellite imagery comparing image 0 and image 1, what is the most significant change observed in the area around Punta Tocón (255, 256) between the formation of Tropical Depression 7 and Hurricane Fiona's landfall?\n\nA:  Significant increase in cloud cover and associated rainfall.\nB:  Observable expansion of urban development.\nC:  Widespread deforestation in the mountainous regions.\nD:  A decrease in the number of visible roads.\n\n"
+      },
+      {
+        "from": "gpt",
+        "value": " A"
+      }
+    ],
+    "id": 39
+  },
+  {
+    "folder_id": 8130,
+    "video": [
+      "all_events/8130/8130_2022-09-14.jpg",
+      "all_events/8130/8130_2022-09-24.jpg"
+    ],
+    "dataset": "FemaEvents",
+    "lat_lon": [
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ]
+    ],
+    "timestamp": [
+      "2022-09-14T00:00:00",
+      "2022-09-24T00:00:00"
+    ],
+    "sensor": [
+      "satellite",
+      "satellite"
+    ],
+    "task": "custom",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This is a sequence of sentinel-2 satellite images, centered at (18.1127526, -66.2663961):\n<video>\n  Using the satellite imagery of image 1, which of the following best describes the geographic distribution of the flooding in Puerto Rico (255, 256) caused by Hurricane Fiona?\n\nA: Primarily concentrated along the northern coast.\nB:  Evenly distributed across the entire island.\nC:  Mostly affecting southern and central regions.\nD: Limited to areas near Punta Tocón.\n\n"
+      },
+      {
+        "from": "gpt",
+        "value": " C"
+      }
+    ],
+    "id": 40
+  },
+  {
+    "folder_id": 8130,
+    "video": [
+      "all_events/8130/8130_2022-09-14.jpg",
+      "all_events/8130/8130_2022-09-24.jpg"
+    ],
+    "dataset": "FemaEvents",
+    "lat_lon": [
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ]
+    ],
+    "timestamp": [
+      "2022-09-14T00:00:00",
+      "2022-09-24T00:00:00"
+    ],
+    "sensor": [
+      "satellite",
+      "satellite"
+    ],
+    "task": "custom",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This is a sequence of sentinel-2 satellite images, centered at (18.1127526, -66.2663961):\n<video>\n Analyzing satellite images 0 and 1, what type of infrastructure damage is *most easily* identifiable in the affected areas of Puerto Rico (255, 256) following Hurricane Fiona's landfall?\n\nA:  Extensive damage to bridges and overpasses.\nB:  Widespread destruction of residential buildings.\nC:  Significant damage to power transmission lines.\nD:  The extent of flooding is the most easily identifiable damage type from space.\n\n\n"
+      },
+      {
+        "from": "gpt",
+        "value": " D"
+      }
+    ],
+    "id": 41
+  },
+  {
+    "folder_id": 8131,
+    "video": [
+      "all_events/8131/8131_2022-09-24.jpg",
+      "all_events/8131/8131_2022-10-04.jpg",
+      "all_events/8131/8131_2022-10-09.jpg",
+      "all_events/8131/8131_2022-10-14.jpg",
+      "all_events/8131/8131_2022-10-19.jpg",
+      "all_events/8131/8131_2022-10-24.jpg",
+      "all_events/8131/8131_2022-11-03.jpg",
+      "all_events/8131/8131_2022-11-08.jpg"
+    ],
+    "dataset": "FemaEvents",
+    "lat_lon": [
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ]
+    ],
+    "timestamp": [
+      "2022-09-24T00:00:00",
+      "2022-10-04T00:00:00",
+      "2022-10-09T00:00:00",
+      "2022-10-14T00:00:00",
+      "2022-10-19T00:00:00",
+      "2022-10-24T00:00:00",
+      "2022-11-03T00:00:00",
+      "2022-11-08T00:00:00"
+    ],
+    "sensor": [
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite"
+    ],
+    "task": "custom",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This is a sequence of sentinel-2 satellite images, centered at (18.1127526, -66.2663961):\n<video>\n Based on the provided text and assuming satellite imagery shows the extent of flooding, which of the following best represents the approximate geographic area most severely affected by flooding, as indicated by the coordinates provided?\n\nA:  A region encompassing coordinates [258, 255] (U.S. Virgin Islands) only.\nB:  A region centered around coordinates [263, 242] (east of the Windward Islands).\nC:  A region encompassing coordinates [255, 256] (Puerto Rico) primarily.\nD:  A region spanning coordinates [260, 254] (east of the Leeward Islands) and [256, 257] (San Juan).\n\n"
+      },
+      {
+        "from": "gpt",
+        "value": " C"
+      }
+    ],
+    "id": 42
+  },
+  {
+    "folder_id": 8131,
+    "video": [
+      "all_events/8131/8131_2022-09-24.jpg",
+      "all_events/8131/8131_2022-10-04.jpg",
+      "all_events/8131/8131_2022-10-09.jpg",
+      "all_events/8131/8131_2022-10-14.jpg",
+      "all_events/8131/8131_2022-10-19.jpg",
+      "all_events/8131/8131_2022-10-24.jpg",
+      "all_events/8131/8131_2022-11-03.jpg",
+      "all_events/8131/8131_2022-11-08.jpg"
+    ],
+    "dataset": "FemaEvents",
+    "lat_lon": [
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ]
+    ],
+    "timestamp": [
+      "2022-09-24T00:00:00",
+      "2022-10-04T00:00:00",
+      "2022-10-09T00:00:00",
+      "2022-10-14T00:00:00",
+      "2022-10-19T00:00:00",
+      "2022-10-24T00:00:00",
+      "2022-11-03T00:00:00",
+      "2022-11-08T00:00:00"
+    ],
+    "sensor": [
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite"
+    ],
+    "task": "custom",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This is a sequence of sentinel-2 satellite images, centered at (18.1127526, -66.2663961):\n<video>\n  Assuming satellite image 1 shows the aftermath of Hurricane Fiona, and the images show varying degrees of damage to infrastructure across different areas,  which of the following best describes the type of infrastructure damage most likely to be evident from space in the affected areas around coordinates [255, 256] (Puerto Rico)?\n\nA: Primarily damage to small, residential buildings, with minimal impact to major roadways.\nB: Significant damage to major roadways and bridges, along with widespread damage to residential and commercial buildings.\nC: Limited damage primarily concentrated near coastal areas, with interior areas largely unaffected.\nD:  Extensive damage to agricultural fields and farmland, with little impact on urban infrastructure.\n\n"
+      },
+      {
+        "from": "gpt",
+        "value": " B"
+      }
+    ],
+    "id": 43
+  },
+  {
+    "folder_id": 8131,
+    "video": [
+      "all_events/8131/8131_2022-09-24.jpg",
+      "all_events/8131/8131_2022-10-04.jpg",
+      "all_events/8131/8131_2022-10-09.jpg",
+      "all_events/8131/8131_2022-10-14.jpg",
+      "all_events/8131/8131_2022-10-19.jpg",
+      "all_events/8131/8131_2022-10-24.jpg",
+      "all_events/8131/8131_2022-11-03.jpg",
+      "all_events/8131/8131_2022-11-08.jpg"
+    ],
+    "dataset": "FemaEvents",
+    "lat_lon": [
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ]
+    ],
+    "timestamp": [
+      "2022-09-24T00:00:00",
+      "2022-10-04T00:00:00",
+      "2022-10-09T00:00:00",
+      "2022-10-14T00:00:00",
+      "2022-10-19T00:00:00",
+      "2022-10-24T00:00:00",
+      "2022-11-03T00:00:00",
+      "2022-11-08T00:00:00"
+    ],
+    "sensor": [
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite"
+    ],
+    "task": "custom",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This is a sequence of sentinel-2 satellite images, centered at (18.1127526, -66.2663961):\n<video>\n  If a series of satellite images (Image 0 - Image 5) were available showing the progression of Hurricane Fiona, what timeframe would images 0-2 most likely depict, based on the text description?\n\nA: The long-term recovery efforts following the hurricane's landfall.\nB: The hurricane's formation, intensification, and landfall in Puerto Rico.\nC:  The initial preparations and warnings issued before the hurricane's arrival.\nD: The assessment and reporting of damage in the aftermath of the hurricane.\n\n\n"
+      },
+      {
+        "from": "gpt",
+        "value": " B"
+      }
+    ],
+    "id": 44
+  },
+  {
+    "folder_id": 8132,
+    "video": [
+      "all_events/8132/8132_2022-09-24.jpg",
+      "all_events/8132/8132_2022-10-04.jpg",
+      "all_events/8132/8132_2022-10-09.jpg",
+      "all_events/8132/8132_2022-10-14.jpg",
+      "all_events/8132/8132_2022-10-19.jpg",
+      "all_events/8132/8132_2022-10-24.jpg",
+      "all_events/8132/8132_2022-11-03.jpg",
+      "all_events/8132/8132_2022-11-08.jpg"
+    ],
+    "dataset": "FemaEvents",
+    "lat_lon": [
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ]
+    ],
+    "timestamp": [
+      "2022-09-24T00:00:00",
+      "2022-10-04T00:00:00",
+      "2022-10-09T00:00:00",
+      "2022-10-14T00:00:00",
+      "2022-10-19T00:00:00",
+      "2022-10-24T00:00:00",
+      "2022-11-03T00:00:00",
+      "2022-11-08T00:00:00"
+    ],
+    "sensor": [
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite"
+    ],
+    "task": "custom",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This is a sequence of sentinel-2 satellite images, centered at (18.1127526, -66.2663961):\n<video>\n Based on satellite imagery of the area around Punta Tocón, Puerto Rico (255, 256) after Hurricane Fiona, which best describes the predominant type of damage visible in the immediate aftermath?\n\nA: Primarily structural damage to buildings, with minimal flooding.\nB: Widespread flooding affecting large areas of land, with some mudslides visible.\nC: Extensive damage to bridges and major roadways, rendering them impassable.\nD: Minimal visible damage, primarily localized to the immediate coastline.\n\n"
+      },
+      {
+        "from": "gpt",
+        "value": " B"
+      }
+    ],
+    "id": 45
+  },
+  {
+    "folder_id": 8132,
+    "video": [
+      "all_events/8132/8132_2022-09-24.jpg",
+      "all_events/8132/8132_2022-10-04.jpg",
+      "all_events/8132/8132_2022-10-09.jpg",
+      "all_events/8132/8132_2022-10-14.jpg",
+      "all_events/8132/8132_2022-10-19.jpg",
+      "all_events/8132/8132_2022-10-24.jpg",
+      "all_events/8132/8132_2022-11-03.jpg",
+      "all_events/8132/8132_2022-11-08.jpg"
+    ],
+    "dataset": "FemaEvents",
+    "lat_lon": [
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ]
+    ],
+    "timestamp": [
+      "2022-09-24T00:00:00",
+      "2022-10-04T00:00:00",
+      "2022-10-09T00:00:00",
+      "2022-10-14T00:00:00",
+      "2022-10-19T00:00:00",
+      "2022-10-24T00:00:00",
+      "2022-11-03T00:00:00",
+      "2022-11-08T00:00:00"
+    ],
+    "sensor": [
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite"
+    ],
+    "task": "custom",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This is a sequence of sentinel-2 satellite images, centered at (18.1127526, -66.2663961):\n<video>\n Comparing satellite images taken before and after Hurricane Fiona (around coordinates 255, 256), what is the approximate extent of the area showing significant flooding,  in square kilometers (km²)?  Assume each coordinate represents 10km.  This is an estimation based on visual assessment.\n\nA: Less than 100 km²\nB: Between 100 km² and 500 km²\nC: Between 500 km² and 1000 km²\nD: Greater than 1000 km²\n\n"
+      },
+      {
+        "from": "gpt",
+        "value": " C  *(Note: This answer assumes the imagery would show a significant flooded area.  The provided text strongly suggests this, making C a likely answer.  The actual square kilometer measurement would depend on the imagery itself.)*"
+      }
+    ],
+    "id": 46
+  },
+  {
+    "folder_id": 8132,
+    "video": [
+      "all_events/8132/8132_2022-09-24.jpg",
+      "all_events/8132/8132_2022-10-04.jpg",
+      "all_events/8132/8132_2022-10-09.jpg",
+      "all_events/8132/8132_2022-10-14.jpg",
+      "all_events/8132/8132_2022-10-19.jpg",
+      "all_events/8132/8132_2022-10-24.jpg",
+      "all_events/8132/8132_2022-11-03.jpg",
+      "all_events/8132/8132_2022-11-08.jpg"
+    ],
+    "dataset": "FemaEvents",
+    "lat_lon": [
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ]
+    ],
+    "timestamp": [
+      "2022-09-24T00:00:00",
+      "2022-10-04T00:00:00",
+      "2022-10-09T00:00:00",
+      "2022-10-14T00:00:00",
+      "2022-10-19T00:00:00",
+      "2022-10-24T00:00:00",
+      "2022-11-03T00:00:00",
+      "2022-11-08T00:00:00"
+    ],
+    "sensor": [
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite"
+    ],
+    "task": "custom",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This is a sequence of sentinel-2 satellite images, centered at (18.1127526, -66.2663961):\n<video>\n  Analyzing satellite imagery time series (images 0-7) around the National Weather Service San Juan (256, 257),  what change, if any, is most readily apparent between images taken immediately after the hurricane (Image 0) and several days later (Image 7)?\n\nA: A significant decrease in the extent of flooding.\nB: A substantial increase in the number of destroyed buildings.\nC: No significant changes are visually apparent.\nD: The appearance of new infrastructure damage not visible in the initial images.\n\n"
+      },
+      {
+        "from": "gpt",
+        "value": " A *(Note: While the provided text doesn't explicitly state this, it implies that flooding was still an issue days later, the lessening of flood extent over time would be a reasonable inference given rainband information.)*"
+      }
+    ],
+    "id": 47
+  },
+  {
+    "folder_id": 8133,
+    "video": [
+      "all_events/8133/8133_2022-09-20.jpg",
+      "all_events/8133/8133_2022-10-05.jpg",
+      "all_events/8133/8133_2022-10-10.jpg",
+      "all_events/8133/8133_2022-10-15.jpg",
+      "all_events/8133/8133_2022-10-20.jpg",
+      "all_events/8133/8133_2022-10-25.jpg",
+      "all_events/8133/8133_2022-11-04.jpg"
+    ],
+    "dataset": "FemaEvents",
+    "lat_lon": [
+      [
+        35.6729639,
+        -79.0392919
+      ],
+      [
+        35.6729639,
+        -79.0392919
+      ],
+      [
+        35.6729639,
+        -79.0392919
+      ],
+      [
+        35.6729639,
+        -79.0392919
+      ],
+      [
+        35.6729639,
+        -79.0392919
+      ],
+      [
+        35.6729639,
+        -79.0392919
+      ],
+      [
+        35.6729639,
+        -79.0392919
+      ]
+    ],
+    "timestamp": [
+      "2022-09-20T00:00:00",
+      "2022-10-05T00:00:00",
+      "2022-10-10T00:00:00",
+      "2022-10-15T00:00:00",
+      "2022-10-20T00:00:00",
+      "2022-10-25T00:00:00",
+      "2022-11-04T00:00:00"
+    ],
+    "sensor": [
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite"
+    ],
+    "task": "custom",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This is a sequence of sentinel-2 satellite images, centered at (35.6729639, -79.0392919):\n<video>\n Based on the satellite imagery from September 24th ([Time of Image], [Image Number]), what is the approximate area of significant flooding in New Bern, NC?\n\nA: Less than 1 square kilometer\nB: Between 1 and 5 square kilometers\nC: Between 5 and 10 square kilometers\nD: Greater than 10 square kilometers\n"
+      },
+      {
+        "from": "gpt",
+        "value": " C (This would be determined by analyzing the image)"
+      }
+    ],
+    "id": 48
+  },
+  {
+    "folder_id": 8133,
+    "video": [
+      "all_events/8133/8133_2022-09-20.jpg",
+      "all_events/8133/8133_2022-10-05.jpg",
+      "all_events/8133/8133_2022-10-10.jpg",
+      "all_events/8133/8133_2022-10-15.jpg",
+      "all_events/8133/8133_2022-10-20.jpg",
+      "all_events/8133/8133_2022-10-25.jpg",
+      "all_events/8133/8133_2022-11-04.jpg"
+    ],
+    "dataset": "FemaEvents",
+    "lat_lon": [
+      [
+        35.6729639,
+        -79.0392919
+      ],
+      [
+        35.6729639,
+        -79.0392919
+      ],
+      [
+        35.6729639,
+        -79.0392919
+      ],
+      [
+        35.6729639,
+        -79.0392919
+      ],
+      [
+        35.6729639,
+        -79.0392919
+      ],
+      [
+        35.6729639,
+        -79.0392919
+      ],
+      [
+        35.6729639,
+        -79.0392919
+      ]
+    ],
+    "timestamp": [
+      "2022-09-20T00:00:00",
+      "2022-10-05T00:00:00",
+      "2022-10-10T00:00:00",
+      "2022-10-15T00:00:00",
+      "2022-10-20T00:00:00",
+      "2022-10-25T00:00:00",
+      "2022-11-04T00:00:00"
+    ],
+    "sensor": [
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite"
+    ],
+    "task": "custom",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This is a sequence of sentinel-2 satellite images, centered at (35.6729639, -79.0392919):\n<video>\n Comparing satellite images from September 23rd ([Time of Image], [Image Number]) and September 24th ([Time of Image], [Image Number]), which area shows the most significant increase in inundation near the western Bogue Sound coordinates [approx. coordinates based on image analysis]?\n\nA: Area A [specific location on image, approx. coordinates]\nB: Area B [specific location on image, approx. coordinates]\nC: Area C [specific location on image, approx. coordinates]\nD: No significant change in inundation is visible between the images\n"
+      },
+      {
+        "from": "gpt",
+        "value": " A (This would be determined by comparing two images)"
+      }
+    ],
+    "id": 49
+  },
+  {
+    "folder_id": 8133,
+    "video": [
+      "all_events/8133/8133_2022-09-20.jpg",
+      "all_events/8133/8133_2022-10-05.jpg",
+      "all_events/8133/8133_2022-10-10.jpg",
+      "all_events/8133/8133_2022-10-15.jpg",
+      "all_events/8133/8133_2022-10-20.jpg",
+      "all_events/8133/8133_2022-10-25.jpg",
+      "all_events/8133/8133_2022-11-04.jpg"
+    ],
+    "dataset": "FemaEvents",
+    "lat_lon": [
+      [
+        35.6729639,
+        -79.0392919
+      ],
+      [
+        35.6729639,
+        -79.0392919
+      ],
+      [
+        35.6729639,
+        -79.0392919
+      ],
+      [
+        35.6729639,
+        -79.0392919
+      ],
+      [
+        35.6729639,
+        -79.0392919
+      ],
+      [
+        35.6729639,
+        -79.0392919
+      ],
+      [
+        35.6729639,
+        -79.0392919
+      ]
+    ],
+    "timestamp": [
+      "2022-09-20T00:00:00",
+      "2022-10-05T00:00:00",
+      "2022-10-10T00:00:00",
+      "2022-10-15T00:00:00",
+      "2022-10-20T00:00:00",
+      "2022-10-25T00:00:00",
+      "2022-11-04T00:00:00"
+    ],
+    "sensor": [
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite"
+    ],
+    "task": "custom",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This is a sequence of sentinel-2 satellite images, centered at (35.6729639, -79.0392919):\n<video>\n Analyzing the satellite imagery of New Bern, NC on September 24th ([Time of Image], [Image Number]),  which type of infrastructure shows the most extensive damage?\n\nA: Residential buildings (identifiable through roof damage or structural collapse)\nB: Major roadways showing significant blockage or disruption\nC: Bridges showing structural damage or collapse\nD: No significant infrastructure damage is visible\n"
+      },
+      {
+        "from": "gpt",
+        "value": " A (This would be determined by analyzing the image for visible damage to structures)"
+      }
+    ],
+    "id": 50
+  },
+  {
+    "folder_id": 8134,
+    "video": [
+      "all_events/8134/8134_2022-09-19.jpg",
+      "all_events/8134/8134_2022-09-24.jpg",
+      "all_events/8134/8134_2022-10-24.jpg"
+    ],
+    "dataset": "FemaEvents",
+    "lat_lon": [
+      [
+        2.9999946,
+        43.500177
+      ],
+      [
+        2.9999946,
+        43.500177
+      ],
+      [
+        2.9999946,
+        43.500177
+      ]
+    ],
+    "timestamp": [
+      "2022-09-19T00:00:00",
+      "2022-09-24T00:00:00",
+      "2022-10-24T00:00:00"
+    ],
+    "sensor": [
+      "satellite",
+      "satellite",
+      "satellite"
+    ],
+    "task": "custom",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This is a sequence of sentinel-2 satellite images, centered at (2.9999946, 43.500177):\n<video>\n Based on satellite imagery from September 27th ([assume coordinates for image representing the aftermath of landfall, e.g., 27.0°N, 81.5°W]), showing the extent of flooding after Hurricane Ian's landfall, which area experienced the most significant inundation?\n\nA: Coastal areas north of [27.5°N, 82.0°W]\nB: Inland areas south of [27.0°N, 81.0°W]\nC: Low-lying areas around [26.5°N, 81.8°W]\nD:  Coastal areas east of [27.2°N, 82.5°W]\n\n"
+      },
+      {
+        "from": "gpt",
+        "value": " C (This would require the imagery to show the most extensive flooding around the specified coordinates, making this a plausible but not certain answer)."
+      }
+    ],
+    "id": 51
+  },
+  {
+    "folder_id": 8134,
+    "video": [
+      "all_events/8134/8134_2022-09-19.jpg",
+      "all_events/8134/8134_2022-09-24.jpg",
+      "all_events/8134/8134_2022-10-24.jpg"
+    ],
+    "dataset": "FemaEvents",
+    "lat_lon": [
+      [
+        2.9999946,
+        43.500177
+      ],
+      [
+        2.9999946,
+        43.500177
+      ],
+      [
+        2.9999946,
+        43.500177
+      ]
+    ],
+    "timestamp": [
+      "2022-09-19T00:00:00",
+      "2022-09-24T00:00:00",
+      "2022-10-24T00:00:00"
+    ],
+    "sensor": [
+      "satellite",
+      "satellite",
+      "satellite"
+    ],
+    "task": "custom",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This is a sequence of sentinel-2 satellite images, centered at (2.9999946, 43.500177):\n<video>\n Examining satellite imagery of Fort Myers Beach, Florida ([assume coordinates for Fort Myers Beach, e.g., 26.5°N, 81.9°W]) taken immediately after Hurricane Ian's landfall (Image 2), what type of infrastructure damage is MOST prevalent?\n\nA: Widespread destruction of high-rise buildings.\nB: Significant damage to bridges and overpasses.\nC: Extensive damage to single-family homes and smaller structures.\nD: Minimal structural damage, primarily limited to downed power lines.\n\n"
+      },
+      {
+        "from": "gpt",
+        "value": " C (This assumes the imagery would depict the devastation to smaller structures, a more likely scenario based on historical events.)"
+      }
+    ],
+    "id": 52
+  },
+  {
+    "folder_id": 8134,
+    "video": [
+      "all_events/8134/8134_2022-09-19.jpg",
+      "all_events/8134/8134_2022-09-24.jpg",
+      "all_events/8134/8134_2022-10-24.jpg"
+    ],
+    "dataset": "FemaEvents",
+    "lat_lon": [
+      [
+        2.9999946,
+        43.500177
+      ],
+      [
+        2.9999946,
+        43.500177
+      ],
+      [
+        2.9999946,
+        43.500177
+      ]
+    ],
+    "timestamp": [
+      "2022-09-19T00:00:00",
+      "2022-09-24T00:00:00",
+      "2022-10-24T00:00:00"
+    ],
+    "sensor": [
+      "satellite",
+      "satellite",
+      "satellite"
+    ],
+    "task": "custom",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This is a sequence of sentinel-2 satellite images, centered at (2.9999946, 43.500177):\n<video>\n Comparing satellite images from September 26th ([assume coordinates for an area showing minimal impact before landfall, e.g., 27.0°N, 82.0°W]) and September 28th ([same coordinates]), what is the most visually apparent change indicating the impact of Hurricane Ian?\n\nA: Increased agricultural land use.\nB: Significant deforestation in the area.\nC: Widespread flooding and displacement of coastal land.\nD: Minimal change; impact is confined to smaller localized areas.\n\n"
+      },
+      {
+        "from": "gpt",
+        "value": " C (This implies that even a pre-landfall image will reveal minimal change. The clear visual change after landfall is the result of flooding and the impact of the storm surge)."
+      }
+    ],
+    "id": 53
+  },
+  {
+    "folder_id": 8138,
+    "video": [
+      "all_events/8138/8138_2022-09-24.jpg",
+      "all_events/8138/8138_2022-10-04.jpg",
+      "all_events/8138/8138_2022-10-14.jpg",
+      "all_events/8138/8138_2022-10-19.jpg",
+      "all_events/8138/8138_2022-10-24.jpg",
+      "all_events/8138/8138_2022-11-03.jpg",
+      "all_events/8138/8138_2022-11-08.jpg"
+    ],
+    "dataset": "FemaEvents",
+    "lat_lon": [
+      [
+        18.1393105,
+        -66.2663961
+      ],
+      [
+        18.1393105,
+        -66.2663961
+      ],
+      [
+        18.1393105,
+        -66.2663961
+      ],
+      [
+        18.1393105,
+        -66.2663961
+      ],
+      [
+        18.1393105,
+        -66.2663961
+      ],
+      [
+        18.1393105,
+        -66.2663961
+      ],
+      [
+        18.1393105,
+        -66.2663961
+      ]
+    ],
+    "timestamp": [
+      "2022-09-24T00:00:00",
+      "2022-10-04T00:00:00",
+      "2022-10-14T00:00:00",
+      "2022-10-19T00:00:00",
+      "2022-10-24T00:00:00",
+      "2022-11-03T00:00:00",
+      "2022-11-08T00:00:00"
+    ],
+    "sensor": [
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite"
+    ],
+    "task": "custom",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This is a sequence of sentinel-2 satellite images, centered at (18.1393105, -66.2663961):\n<video>\n Based on satellite imagery of image 1 ([coordinates are not provided in the prompt and would need to be added from the actual imagery]),  what is the approximate area (in square kilometers) showing significant flooding,  defined as areas with visibly disrupted land cover consistent with inundation?\n\nA: Less than 100 sq km\nB: 100-500 sq km\nC: 500-1000 sq km\nD: Greater than 1000 sq km\n\n"
+      },
+      {
+        "from": "gpt",
+        "value": "  C (or A, B, or D depending on the actual satellite imagery analysis)"
+      }
+    ],
+    "id": 54
+  },
+  {
+    "folder_id": 8138,
+    "video": [
+      "all_events/8138/8138_2022-09-24.jpg",
+      "all_events/8138/8138_2022-10-04.jpg",
+      "all_events/8138/8138_2022-10-14.jpg",
+      "all_events/8138/8138_2022-10-19.jpg",
+      "all_events/8138/8138_2022-10-24.jpg",
+      "all_events/8138/8138_2022-11-03.jpg",
+      "all_events/8138/8138_2022-11-08.jpg"
+    ],
+    "dataset": "FemaEvents",
+    "lat_lon": [
+      [
+        18.1393105,
+        -66.2663961
+      ],
+      [
+        18.1393105,
+        -66.2663961
+      ],
+      [
+        18.1393105,
+        -66.2663961
+      ],
+      [
+        18.1393105,
+        -66.2663961
+      ],
+      [
+        18.1393105,
+        -66.2663961
+      ],
+      [
+        18.1393105,
+        -66.2663961
+      ],
+      [
+        18.1393105,
+        -66.2663961
+      ]
+    ],
+    "timestamp": [
+      "2022-09-24T00:00:00",
+      "2022-10-04T00:00:00",
+      "2022-10-14T00:00:00",
+      "2022-10-19T00:00:00",
+      "2022-10-24T00:00:00",
+      "2022-11-03T00:00:00",
+      "2022-11-08T00:00:00"
+    ],
+    "sensor": [
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite"
+    ],
+    "task": "custom",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This is a sequence of sentinel-2 satellite images, centered at (18.1393105, -66.2663961):\n<video>\n Comparing satellite images 0 and 1, which type of infrastructure shows the most significant widespread damage in the area around [34.5, -66.0] (replace with coordinates from image)?\n\nA:  Residential buildings (showing collapsed roofs or significant structural damage)\nB: Major roadways (showing complete or substantial blockage)\nC: Bridges (showing significant structural compromise or collapse)\nD: Power lines (showing extensive downed lines or damage to transmission infrastructure)\n\n"
+      },
+      {
+        "from": "gpt",
+        "value": " A (or B, C, or D depending on the actual satellite imagery analysis)"
+      }
+    ],
+    "id": 55
+  },
+  {
+    "folder_id": 8138,
+    "video": [
+      "all_events/8138/8138_2022-09-24.jpg",
+      "all_events/8138/8138_2022-10-04.jpg",
+      "all_events/8138/8138_2022-10-14.jpg",
+      "all_events/8138/8138_2022-10-19.jpg",
+      "all_events/8138/8138_2022-10-24.jpg",
+      "all_events/8138/8138_2022-11-03.jpg",
+      "all_events/8138/8138_2022-11-08.jpg"
+    ],
+    "dataset": "FemaEvents",
+    "lat_lon": [
+      [
+        18.1393105,
+        -66.2663961
+      ],
+      [
+        18.1393105,
+        -66.2663961
+      ],
+      [
+        18.1393105,
+        -66.2663961
+      ],
+      [
+        18.1393105,
+        -66.2663961
+      ],
+      [
+        18.1393105,
+        -66.2663961
+      ],
+      [
+        18.1393105,
+        -66.2663961
+      ],
+      [
+        18.1393105,
+        -66.2663961
+      ]
+    ],
+    "timestamp": [
+      "2022-09-24T00:00:00",
+      "2022-10-04T00:00:00",
+      "2022-10-14T00:00:00",
+      "2022-10-19T00:00:00",
+      "2022-10-24T00:00:00",
+      "2022-11-03T00:00:00",
+      "2022-11-08T00:00:00"
+    ],
+    "sensor": [
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite"
+    ],
+    "task": "custom",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This is a sequence of sentinel-2 satellite images, centered at (18.1393105, -66.2663961):\n<video>\n  Examining the sequence of satellite images (0-2), what is the most likely progression of flooding in the area around [18.2,-66.5] (replace with coordinates from images)?  Assume that lighter shades of blue indicate deeper/more recent flooding.\n\nA: Flooding intensity remained relatively constant over the three days.\nB: Flooding significantly increased between image 0 and image 1, then receded somewhat by image 2.\nC: Flooding started minor in image 0, increased dramatically in image 1, and then completely receded in image 2.\nD: Flooding was absent in image 0, appeared in image 1, and significantly worsened in image 2.\n\n"
+      },
+      {
+        "from": "gpt",
+        "value": " B (or A, C, or D depending on the actual satellite imagery analysis)"
+      }
+    ],
+    "id": 56
+  },
+  {
+    "folder_id": 8139,
+    "video": [
+      "all_events/8139/8139_2022-09-24.jpg",
+      "all_events/8139/8139_2022-10-04.jpg",
+      "all_events/8139/8139_2022-10-09.jpg",
+      "all_events/8139/8139_2022-10-14.jpg",
+      "all_events/8139/8139_2022-10-19.jpg",
+      "all_events/8139/8139_2022-10-24.jpg",
+      "all_events/8139/8139_2022-11-03.jpg",
+      "all_events/8139/8139_2022-11-08.jpg"
+    ],
+    "dataset": "FemaEvents",
+    "lat_lon": [
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ]
+    ],
+    "timestamp": [
+      "2022-09-24T00:00:00",
+      "2022-10-04T00:00:00",
+      "2022-10-09T00:00:00",
+      "2022-10-14T00:00:00",
+      "2022-10-19T00:00:00",
+      "2022-10-24T00:00:00",
+      "2022-11-03T00:00:00",
+      "2022-11-08T00:00:00"
+    ],
+    "sensor": [
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite"
+    ],
+    "task": "custom",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This is a sequence of sentinel-2 satellite images, centered at (18.1127526, -66.2663961):\n<video>\n Based on satellite imagery of Puerto Rico (255, 256) after Hurricane Fiona's landfall, which area shows the most extensive flooding, indicated by the largest area of water inundation?\n\nA: The coastal region near Punta Tocón [x,y] (provide approximate coordinates based on a hypothetical image)\nB: The central mountainous region [x,y] (provide approximate coordinates based on a hypothetical image)\nC: The northern plains region [x,y] (provide approximate coordinates based on a hypothetical image)\nD: The southern coastal region [x,y] (provide approximate coordinates based on a hypothetical image)\n\n"
+      },
+      {
+        "from": "gpt",
+        "value": "  (A, B, C, or D,  depending on the hypothetical satellite image)"
+      }
+    ],
+    "id": 57
+  },
+  {
+    "folder_id": 8139,
+    "video": [
+      "all_events/8139/8139_2022-09-24.jpg",
+      "all_events/8139/8139_2022-10-04.jpg",
+      "all_events/8139/8139_2022-10-09.jpg",
+      "all_events/8139/8139_2022-10-14.jpg",
+      "all_events/8139/8139_2022-10-19.jpg",
+      "all_events/8139/8139_2022-10-24.jpg",
+      "all_events/8139/8139_2022-11-03.jpg",
+      "all_events/8139/8139_2022-11-08.jpg"
+    ],
+    "dataset": "FemaEvents",
+    "lat_lon": [
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ]
+    ],
+    "timestamp": [
+      "2022-09-24T00:00:00",
+      "2022-10-04T00:00:00",
+      "2022-10-09T00:00:00",
+      "2022-10-14T00:00:00",
+      "2022-10-19T00:00:00",
+      "2022-10-24T00:00:00",
+      "2022-11-03T00:00:00",
+      "2022-11-08T00:00:00"
+    ],
+    "sensor": [
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite"
+    ],
+    "task": "custom",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This is a sequence of sentinel-2 satellite images, centered at (18.1127526, -66.2663961):\n<video>\n Examining satellite images from before and after Hurricane Fiona, which type of infrastructure sustained the most visible damage in the area around the WFO San Juan (256, 257)?\n\nA:  Bridges showing significant structural damage or collapse.\nB:  Widespread damage to residential buildings.\nC:  Major disruption or blockage of major roadways.\nD:  Minimal visible damage to infrastructure.\n\n\n"
+      },
+      {
+        "from": "gpt",
+        "value": " (A, B, C, or D, depending on the hypothetical satellite image)"
+      }
+    ],
+    "id": 58
+  },
+  {
+    "folder_id": 8139,
+    "video": [
+      "all_events/8139/8139_2022-09-24.jpg",
+      "all_events/8139/8139_2022-10-04.jpg",
+      "all_events/8139/8139_2022-10-09.jpg",
+      "all_events/8139/8139_2022-10-14.jpg",
+      "all_events/8139/8139_2022-10-19.jpg",
+      "all_events/8139/8139_2022-10-24.jpg",
+      "all_events/8139/8139_2022-11-03.jpg",
+      "all_events/8139/8139_2022-11-08.jpg"
+    ],
+    "dataset": "FemaEvents",
+    "lat_lon": [
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ]
+    ],
+    "timestamp": [
+      "2022-09-24T00:00:00",
+      "2022-10-04T00:00:00",
+      "2022-10-09T00:00:00",
+      "2022-10-14T00:00:00",
+      "2022-10-19T00:00:00",
+      "2022-10-24T00:00:00",
+      "2022-11-03T00:00:00",
+      "2022-11-08T00:00:00"
+    ],
+    "sensor": [
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite"
+    ],
+    "task": "custom",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This is a sequence of sentinel-2 satellite images, centered at (18.1127526, -66.2663961):\n<video>\n Comparing a pre-event satellite image with images taken three days after Hurricane Fiona's landfall,  what is the approximate geographic area (in square kilometers –  estimate based on image scale) impacted by significant flooding in the vicinity of the Puerto Rico Emergency Operations Center (PR EOC) (370, 346)?\n\nA: Less than 10 square kilometers\nB: 10-50 square kilometers\nC: 50-100 square kilometers\nD: Greater than 100 square kilometers\n\n"
+      },
+      {
+        "from": "gpt",
+        "value": " (A, B, C, or D, depending on the hypothetical satellite image)"
+      }
+    ],
+    "id": 59
+  },
+  {
+    "folder_id": 8140,
+    "video": [
+      "all_events/8140/8140_2022-09-24.jpg",
+      "all_events/8140/8140_2022-10-04.jpg",
+      "all_events/8140/8140_2022-10-09.jpg",
+      "all_events/8140/8140_2022-10-14.jpg",
+      "all_events/8140/8140_2022-10-19.jpg",
+      "all_events/8140/8140_2022-10-24.jpg",
+      "all_events/8140/8140_2022-11-03.jpg",
+      "all_events/8140/8140_2022-11-08.jpg"
+    ],
+    "dataset": "FemaEvents",
+    "lat_lon": [
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ]
+    ],
+    "timestamp": [
+      "2022-09-24T00:00:00",
+      "2022-10-04T00:00:00",
+      "2022-10-09T00:00:00",
+      "2022-10-14T00:00:00",
+      "2022-10-19T00:00:00",
+      "2022-10-24T00:00:00",
+      "2022-11-03T00:00:00",
+      "2022-11-08T00:00:00"
+    ],
+    "sensor": [
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite"
+    ],
+    "task": "custom",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This is a sequence of sentinel-2 satellite images, centered at (18.1127526, -66.2663961):\n<video>\n Based on satellite imagery of Hurricane Fiona's impact around Punta Tocón, Puerto Rico (255, 256),  which area shows the most extensive flooding, as indicated by changes in land cover?\n\nA:  The coastal region immediately east of Punta Tocón (256, 257)\nB: The mountainous region inland from Punta Tocón (254, 255)\nC: The agricultural lands west of Punta Tocón (254, 255)\nD:  The area around the airport near Punta Tocón (255, 256)\n\n"
+      },
+      {
+        "from": "gpt",
+        "value": " B"
+      }
+    ],
+    "id": 60
+  },
+  {
+    "folder_id": 8140,
+    "video": [
+      "all_events/8140/8140_2022-09-24.jpg",
+      "all_events/8140/8140_2022-10-04.jpg",
+      "all_events/8140/8140_2022-10-09.jpg",
+      "all_events/8140/8140_2022-10-14.jpg",
+      "all_events/8140/8140_2022-10-19.jpg",
+      "all_events/8140/8140_2022-10-24.jpg",
+      "all_events/8140/8140_2022-11-03.jpg",
+      "all_events/8140/8140_2022-11-08.jpg"
+    ],
+    "dataset": "FemaEvents",
+    "lat_lon": [
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ]
+    ],
+    "timestamp": [
+      "2022-09-24T00:00:00",
+      "2022-10-04T00:00:00",
+      "2022-10-09T00:00:00",
+      "2022-10-14T00:00:00",
+      "2022-10-19T00:00:00",
+      "2022-10-24T00:00:00",
+      "2022-11-03T00:00:00",
+      "2022-11-08T00:00:00"
+    ],
+    "sensor": [
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite"
+    ],
+    "task": "custom",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This is a sequence of sentinel-2 satellite images, centered at (18.1127526, -66.2663961):\n<video>\n Comparing satellite images from before and after Hurricane Fiona's landfall near Punta Tocón, Puerto Rico (255, 256), which type of infrastructure damage is most prevalent within a 10km radius of the landfall point?\n\nA:  Significant damage to large-scale industrial facilities.\nB: Widespread destruction of residential buildings.\nC: Severely disrupted road networks and bridge collapses.\nD: Extensive damage to port facilities and coastal infrastructure.\n\n"
+      },
+      {
+        "from": "gpt",
+        "value": " C"
+      }
+    ],
+    "id": 61
+  },
+  {
+    "folder_id": 8140,
+    "video": [
+      "all_events/8140/8140_2022-09-24.jpg",
+      "all_events/8140/8140_2022-10-04.jpg",
+      "all_events/8140/8140_2022-10-09.jpg",
+      "all_events/8140/8140_2022-10-14.jpg",
+      "all_events/8140/8140_2022-10-19.jpg",
+      "all_events/8140/8140_2022-10-24.jpg",
+      "all_events/8140/8140_2022-11-03.jpg",
+      "all_events/8140/8140_2022-11-08.jpg"
+    ],
+    "dataset": "FemaEvents",
+    "lat_lon": [
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ]
+    ],
+    "timestamp": [
+      "2022-09-24T00:00:00",
+      "2022-10-04T00:00:00",
+      "2022-10-09T00:00:00",
+      "2022-10-14T00:00:00",
+      "2022-10-19T00:00:00",
+      "2022-10-24T00:00:00",
+      "2022-11-03T00:00:00",
+      "2022-11-08T00:00:00"
+    ],
+    "sensor": [
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite"
+    ],
+    "task": "custom",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This is a sequence of sentinel-2 satellite images, centered at (18.1127526, -66.2663961):\n<video>\n  Analyzing the satellite imagery sequence of Hurricane Fiona's impact on Puerto Rico (255, 256), which geographic area shows a significant increase in flood extent *between* image 0 and image 1 (assuming we have before and after images of the event)?  Note:  The provided text only describes events, not image content.  This question assumes access to hypothetical imagery.\n\nA: The Rio Grande de Arecibo basin (252, 258)\nB: The coastal plains near San Juan (258, 260)\nC: The mountainous region in central Puerto Rico (255, 255)\nD: No significant change in flood extent is observable between the images.\n\n"
+      },
+      {
+        "from": "gpt",
+        "value": " A"
+      }
+    ],
+    "id": 62
+  },
+  {
+    "folder_id": 8141,
+    "video": [
+      "all_events/8141/8141_2022-09-24.jpg",
+      "all_events/8141/8141_2022-10-04.jpg",
+      "all_events/8141/8141_2022-10-24.jpg",
+      "all_events/8141/8141_2022-11-08.jpg"
+    ],
+    "dataset": "FemaEvents",
+    "lat_lon": [
+      [
+        18.3106898,
+        -65.7913844
+      ],
+      [
+        18.3106898,
+        -65.7913844
+      ],
+      [
+        18.3106898,
+        -65.7913844
+      ],
+      [
+        18.3106898,
+        -65.7913844
+      ]
+    ],
+    "timestamp": [
+      "2022-09-24T00:00:00",
+      "2022-10-04T00:00:00",
+      "2022-10-24T00:00:00",
+      "2022-11-08T00:00:00"
+    ],
+    "sensor": [
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite"
+    ],
+    "task": "custom",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This is a sequence of sentinel-2 satellite images, centered at (18.3106898, -65.7913844):\n<video>\n Based on satellite image 1 (taken on [Date and Time]), which area shows the most significant damage to major roadways, indicated by visible debris or disruption?\n\nA:  The coastal highway near Ponce, PR [18.00,-66.60]\nB:  Highway PR-52 near [Hypothetical town name], PR [18.15,-66.20]\nC:  PR-10 running through the central mountains near [Hypothetical mountain range] [18.30,-66.50]\nD:  No major road damage is clearly visible in image 1.\n\n"
+      },
+      {
+        "from": "gpt",
+        "value": " B (This is a placeholder. The correct answer would be determined by the actual satellite image)"
+      }
+    ],
+    "id": 63
+  },
+  {
+    "folder_id": 8141,
+    "video": [
+      "all_events/8141/8141_2022-09-24.jpg",
+      "all_events/8141/8141_2022-10-04.jpg",
+      "all_events/8141/8141_2022-10-24.jpg",
+      "all_events/8141/8141_2022-11-08.jpg"
+    ],
+    "dataset": "FemaEvents",
+    "lat_lon": [
+      [
+        18.3106898,
+        -65.7913844
+      ],
+      [
+        18.3106898,
+        -65.7913844
+      ],
+      [
+        18.3106898,
+        -65.7913844
+      ],
+      [
+        18.3106898,
+        -65.7913844
+      ]
+    ],
+    "timestamp": [
+      "2022-09-24T00:00:00",
+      "2022-10-04T00:00:00",
+      "2022-10-24T00:00:00",
+      "2022-11-08T00:00:00"
+    ],
+    "sensor": [
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite"
+    ],
+    "task": "custom",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This is a sequence of sentinel-2 satellite images, centered at (18.3106898, -65.7913844):\n<video>\n Comparing satellite images 0 (before the hurricane) and 2 (after the hurricane), which area shows the most extensive flooding, defined by the change in surface water extent, around coordinates [18.20, -66.40]?\n\nA:  The area north of [Hypothetical town name], PR extending approximately 5 km inland.\nB:  The coastal plain south of [Hypothetical town name], PR extending approximately 3 km inland.\nC:  The mountainous region west of [Hypothetical town name], PR showing negligible changes.\nD:  No significant difference in water extent is observable between the two images in the specified area.\n\n\n"
+      },
+      {
+        "from": "gpt",
+        "value": " A (This is a placeholder. The correct answer would be determined by the actual satellite image comparison)"
+      }
+    ],
+    "id": 64
+  },
+  {
+    "folder_id": 8141,
+    "video": [
+      "all_events/8141/8141_2022-09-24.jpg",
+      "all_events/8141/8141_2022-10-04.jpg",
+      "all_events/8141/8141_2022-10-24.jpg",
+      "all_events/8141/8141_2022-11-08.jpg"
+    ],
+    "dataset": "FemaEvents",
+    "lat_lon": [
+      [
+        18.3106898,
+        -65.7913844
+      ],
+      [
+        18.3106898,
+        -65.7913844
+      ],
+      [
+        18.3106898,
+        -65.7913844
+      ],
+      [
+        18.3106898,
+        -65.7913844
+      ]
+    ],
+    "timestamp": [
+      "2022-09-24T00:00:00",
+      "2022-10-04T00:00:00",
+      "2022-10-24T00:00:00",
+      "2022-11-08T00:00:00"
+    ],
+    "sensor": [
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite"
+    ],
+    "task": "custom",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This is a sequence of sentinel-2 satellite images, centered at (18.3106898, -65.7913844):\n<video>\n  Satellite image 3 (taken on [Date and Time]) shows which type of damage prevalent across a wide area around [18.10, -66.70]?\n\nA:  Significant damage to residential buildings, evidenced by widespread roof damage or collapsed structures.\nB:  Extensive damage to agricultural areas, indicated by clear signs of crop loss or inundation.\nC:  Widespread destruction of industrial infrastructure, shown by visible damage to large factories or industrial sites.\nD:  No widespread damage to easily identifiable infrastructure categories is clearly visible.\n\n\n"
+      },
+      {
+        "from": "gpt",
+        "value": " B (This is a placeholder. The correct answer would be determined by the actual satellite image)"
+      }
+    ],
+    "id": 65
+  },
+  {
+    "folder_id": 8143,
+    "video": [
+      "all_events/8143/8143_2017-06-18.jpg"
+    ],
+    "dataset": "FemaEvents",
+    "lat_lon": [
+      [
+        35.6790519,
+        -79.0392919
+      ]
+    ],
+    "timestamp": [
+      "2017-06-18T00:00:00"
+    ],
+    "sensor": [
+      "satellite"
+    ],
+    "task": "custom",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This is a sequence of sentinel-2 satellite images, centered at (35.6790519, -79.0392919):\n<video>\n Based on the satellite imagery (Image 1, coordinates [34.5,-118.2]), what is the approximate area (in square kilometers) of the most significantly inundated residential zone?\n\nA:  Less than 1 sq km\nB:  Between 1 and 5 sq km\nC:  Between 5 and 10 sq km\nD: Greater than 10 sq km\n\n"
+      },
+      {
+        "from": "gpt",
+        "value": " C"
+      }
+    ],
+    "id": 66
+  },
+  {
+    "folder_id": 8143,
+    "video": [
+      "all_events/8143/8143_2017-06-18.jpg"
+    ],
+    "dataset": "FemaEvents",
+    "lat_lon": [
+      [
+        35.6790519,
+        -79.0392919
+      ]
+    ],
+    "timestamp": [
+      "2017-06-18T00:00:00"
+    ],
+    "sensor": [
+      "satellite"
+    ],
+    "task": "custom",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This is a sequence of sentinel-2 satellite images, centered at (35.6790519, -79.0392919):\n<video>\n Comparing Image 0 (pre-flood) and Image 2 (post-flood), which infrastructure type shows the most extensive damage in the area bounded by coordinates [34.6,-118.1], [34.7,-118.1], [34.7,-118.0], [34.6,-118.0]?\n\nA:  Residential buildings\nB:  Major roadways\nC:  Bridges\nD:  Agricultural land\n\n"
+      },
+      {
+        "from": "gpt",
+        "value": " A"
+      }
+    ],
+    "id": 67
+  },
+  {
+    "folder_id": 8143,
+    "video": [
+      "all_events/8143/8143_2017-06-18.jpg"
+    ],
+    "dataset": "FemaEvents",
+    "lat_lon": [
+      [
+        35.6790519,
+        -79.0392919
+      ]
+    ],
+    "timestamp": [
+      "2017-06-18T00:00:00"
+    ],
+    "sensor": [
+      "satellite"
+    ],
+    "task": "custom",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This is a sequence of sentinel-2 satellite images, centered at (35.6790519, -79.0392919):\n<video>\n  Analyzing the progression of flooding across Images 1 and 2 (taken 24 hours apart), which direction did the floodwaters appear to advance most rapidly during that period, based on the changes in the inundation zone around coordinates [34.4,-117.9]?\n\nA:  North\nB:  South\nC:  East\nD:  West\n\n"
+      },
+      {
+        "from": "gpt",
+        "value": " D"
+      }
+    ],
+    "id": 68
+  },
+  {
+    "folder_id": 8144,
+    "video": [
+      "all_events/8144/8144_2022-07-22.jpg",
+      "all_events/8144/8144_2022-07-27.jpg",
+      "all_events/8144/8144_2022-08-01.jpg",
+      "all_events/8144/8144_2022-08-06.jpg",
+      "all_events/8144/8144_2022-08-11.jpg"
+    ],
+    "dataset": "FemaEvents",
+    "lat_lon": [
+      [
+        35.6790519,
+        -79.0392919
+      ],
+      [
+        35.6790519,
+        -79.0392919
+      ],
+      [
+        35.6790519,
+        -79.0392919
+      ],
+      [
+        35.6790519,
+        -79.0392919
+      ],
+      [
+        35.6790519,
+        -79.0392919
+      ]
+    ],
+    "timestamp": [
+      "2022-07-22T00:00:00",
+      "2022-07-27T00:00:00",
+      "2022-08-01T00:00:00",
+      "2022-08-06T00:00:00",
+      "2022-08-11T00:00:00"
+    ],
+    "sensor": [
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite"
+    ],
+    "task": "custom",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This is a sequence of sentinel-2 satellite images, centered at (35.6790519, -79.0392919):\n<video>\n Based on image 7 [hypothetical image, showing a flood], what is the approximate area in square kilometers affected by flooding in the region bounded by coordinates [10.2, 30.5], [10.8, 30.5], [10.8, 31.2], and [10.2, 31.2]?\n\nA: 15 sq km\nB: 40 sq km\nC: 70 sq km\nD: 100 sq km\n"
+      },
+      {
+        "from": "gpt",
+        "value": " C (Hypothetical Answer)"
+      }
+    ],
+    "id": 69
+  },
+  {
+    "folder_id": 8144,
+    "video": [
+      "all_events/8144/8144_2022-07-22.jpg",
+      "all_events/8144/8144_2022-07-27.jpg",
+      "all_events/8144/8144_2022-08-01.jpg",
+      "all_events/8144/8144_2022-08-06.jpg",
+      "all_events/8144/8144_2022-08-11.jpg"
+    ],
+    "dataset": "FemaEvents",
+    "lat_lon": [
+      [
+        35.6790519,
+        -79.0392919
+      ],
+      [
+        35.6790519,
+        -79.0392919
+      ],
+      [
+        35.6790519,
+        -79.0392919
+      ],
+      [
+        35.6790519,
+        -79.0392919
+      ],
+      [
+        35.6790519,
+        -79.0392919
+      ]
+    ],
+    "timestamp": [
+      "2022-07-22T00:00:00",
+      "2022-07-27T00:00:00",
+      "2022-08-01T00:00:00",
+      "2022-08-06T00:00:00",
+      "2022-08-11T00:00:00"
+    ],
+    "sensor": [
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite"
+    ],
+    "task": "custom",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This is a sequence of sentinel-2 satellite images, centered at (35.6790519, -79.0392919):\n<video>\n Comparing images 5 and 6 [hypothetical images showing a wildfire before and after spread], which type of land cover experienced the most significant area loss due to the wildfire near coordinates [25.1, 48.7]?\n\nA: Dense forest\nB: Agricultural land\nC: Sparse scrubland\nD: Urban area\n"
+      },
+      {
+        "from": "gpt",
+        "value": " A (Hypothetical Answer)"
+      }
+    ],
+    "id": 70
+  },
+  {
+    "folder_id": 8144,
+    "video": [
+      "all_events/8144/8144_2022-07-22.jpg",
+      "all_events/8144/8144_2022-07-27.jpg",
+      "all_events/8144/8144_2022-08-01.jpg",
+      "all_events/8144/8144_2022-08-06.jpg",
+      "all_events/8144/8144_2022-08-11.jpg"
+    ],
+    "dataset": "FemaEvents",
+    "lat_lon": [
+      [
+        35.6790519,
+        -79.0392919
+      ],
+      [
+        35.6790519,
+        -79.0392919
+      ],
+      [
+        35.6790519,
+        -79.0392919
+      ],
+      [
+        35.6790519,
+        -79.0392919
+      ],
+      [
+        35.6790519,
+        -79.0392919
+      ]
+    ],
+    "timestamp": [
+      "2022-07-22T00:00:00",
+      "2022-07-27T00:00:00",
+      "2022-08-01T00:00:00",
+      "2022-08-06T00:00:00",
+      "2022-08-11T00:00:00"
+    ],
+    "sensor": [
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite"
+    ],
+    "task": "custom",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This is a sequence of sentinel-2 satellite images, centered at (35.6790519, -79.0392919):\n<video>\n  Image 9 [hypothetical image showing earthquake damage] shows damage to infrastructure.  Based solely on the image, which structure at coordinates [33.4, 55.2] appears to have sustained the most significant structural damage (partial or complete collapse)?\n\nA:  A large industrial building.\nB: A residential housing complex.\nC: A major highway overpass.\nD: A smaller commercial building.\n"
+      },
+      {
+        "from": "gpt",
+        "value": " C (Hypothetical Answer)"
+      }
+    ],
+    "id": 71
+  },
+  {
+    "folder_id": 8145,
+    "video": [
+      "all_events/8145/8145_2022-09-12.jpg",
+      "all_events/8145/8145_2022-09-17.jpg",
+      "all_events/8145/8145_2022-09-22.jpg"
+    ],
+    "dataset": "FemaEvents",
+    "lat_lon": [
+      [
+        34.443730900000006,
+        -77.53021869456106
+      ],
+      [
+        34.443730900000006,
+        -77.53021869456106
+      ],
+      [
+        34.443730900000006,
+        -77.53021869456106
+      ]
+    ],
+    "timestamp": [
+      "2022-09-12T00:00:00",
+      "2022-09-17T00:00:00",
+      "2022-09-22T00:00:00"
+    ],
+    "sensor": [
+      "satellite",
+      "satellite",
+      "satellite"
+    ],
+    "task": "custom",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This is a sequence of sentinel-2 satellite images, centered at (34.443730900000006, -77.53021869456106):\n<video>\n  Based on the satellite imagery from image 4 (showing a wildfire), what is the approximate area (in square kilometers) of the primary burn zone located between coordinates [34.5,-118.2] and [34.7,-118.0]?\n\nA: 5 sq km\nB: 15 sq km\nC: 30 sq km\nD: 50 sq km\n"
+      },
+      {
+        "from": "gpt",
+        "value": " B"
+      }
+    ],
+    "id": 72
+  },
+  {
+    "folder_id": 8145,
+    "video": [
+      "all_events/8145/8145_2022-09-12.jpg",
+      "all_events/8145/8145_2022-09-17.jpg",
+      "all_events/8145/8145_2022-09-22.jpg"
+    ],
+    "dataset": "FemaEvents",
+    "lat_lon": [
+      [
+        34.443730900000006,
+        -77.53021869456106
+      ],
+      [
+        34.443730900000006,
+        -77.53021869456106
+      ],
+      [
+        34.443730900000006,
+        -77.53021869456106
+      ]
+    ],
+    "timestamp": [
+      "2022-09-12T00:00:00",
+      "2022-09-17T00:00:00",
+      "2022-09-22T00:00:00"
+    ],
+    "sensor": [
+      "satellite",
+      "satellite",
+      "satellite"
+    ],
+    "task": "custom",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This is a sequence of sentinel-2 satellite images, centered at (34.443730900000006, -77.53021869456106):\n<video>\n Comparing images 10 and 12 (showing a flood event before and after the peak), which type of infrastructure sustained the most significant damage in the area around coordinates [40.1, -74.3]?\n\nA: Residential buildings\nB: Transportation networks (roads and bridges)\nC: Agricultural lands\nD: Industrial facilities\n**Answer 1:** B\n\n\n**Question 3:**  Image 7 (depicting an earthquake) shows significant ground deformation.  Based on the visible cracks and displacement near coordinates [37.8,-122.3], which type of geological feature is most likely responsible for the observed damage?\n\nA:  Normal fault\nB:  Reverse fault\nC:  Strike-slip fault\nD:  No significant geological feature visible\n**Answer 1:** A\n\n\nRemember that these are examples.  To generate accurate and useful questions, I need actual satellite image data and descriptions of events."
+      },
+      {
+        "from": "gpt",
+        "value": "ble to create meaningful multiple-choice questions about satellite imagery and disaster response using the provided data. The data only indicates \"No known significant events reported,\" meaning there is no imagery depicting damage or events to analyze.  To create relevant questions, I need actual satellite image data and descriptions of the events captured within those images."
+      }
+    ],
+    "id": 73
+  },
+  {
+    "folder_id": 8145,
+    "video": [
+      "all_events/8145/8145_2022-09-12.jpg",
+      "all_events/8145/8145_2022-09-17.jpg",
+      "all_events/8145/8145_2022-09-22.jpg"
+    ],
+    "dataset": "FemaEvents",
+    "lat_lon": [
+      [
+        34.443730900000006,
+        -77.53021869456106
+      ],
+      [
+        34.443730900000006,
+        -77.53021869456106
+      ],
+      [
+        34.443730900000006,
+        -77.53021869456106
+      ]
+    ],
+    "timestamp": [
+      "2022-09-12T00:00:00",
+      "2022-09-17T00:00:00",
+      "2022-09-22T00:00:00"
+    ],
+    "sensor": [
+      "satellite",
+      "satellite",
+      "satellite"
+    ],
+    "task": "custom",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This is a sequence of sentinel-2 satellite images, centered at (34.443730900000006, -77.53021869456106):\n<video>\n  Image 7 (depicting an earthquake) shows significant ground deformation.  Based on the visible cracks and displacement near coordinates [37.8,-122.3], which type of geological feature is most likely responsible for the observed damage?\n\nA:  Normal fault\nB:  Reverse fault\nC:  Strike-slip fault\nD:  No significant geological feature visible\n**Answer 1:** A\n\n\nRemember that these are examples.  To generate accurate and useful questions, I need actual satellite image data and descriptions of events."
+      },
+      {
+        "from": "gpt",
+        "value": "ble to create meaningful multiple-choice questions about satellite imagery and disaster response using the provided data. The data only indicates \"No known significant events reported,\" meaning there is no imagery depicting damage or events to analyze.  To create relevant questions, I need actual satellite image data and descriptions of the events captured within those images."
+      }
+    ],
+    "id": 74
+  },
+  {
+    "folder_id": 8146,
+    "video": [
+      "all_events/8146/8146_2022-09-20.jpg",
+      "all_events/8146/8146_2022-10-05.jpg",
+      "all_events/8146/8146_2022-10-10.jpg",
+      "all_events/8146/8146_2022-10-15.jpg",
+      "all_events/8146/8146_2022-10-20.jpg",
+      "all_events/8146/8146_2022-10-25.jpg",
+      "all_events/8146/8146_2022-11-04.jpg"
+    ],
+    "dataset": "FemaEvents",
+    "lat_lon": [
+      [
+        35.6729639,
+        -79.0392919
+      ],
+      [
+        35.6729639,
+        -79.0392919
+      ],
+      [
+        35.6729639,
+        -79.0392919
+      ],
+      [
+        35.6729639,
+        -79.0392919
+      ],
+      [
+        35.6729639,
+        -79.0392919
+      ],
+      [
+        35.6729639,
+        -79.0392919
+      ],
+      [
+        35.6729639,
+        -79.0392919
+      ]
+    ],
+    "timestamp": [
+      "2022-09-20T00:00:00",
+      "2022-10-05T00:00:00",
+      "2022-10-10T00:00:00",
+      "2022-10-15T00:00:00",
+      "2022-10-20T00:00:00",
+      "2022-10-25T00:00:00",
+      "2022-11-04T00:00:00"
+    ],
+    "sensor": [
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite"
+    ],
+    "task": "custom",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This is a sequence of sentinel-2 satellite images, centered at (35.6729639, -79.0392919):\n<video>\n Based on satellite imagery from image 1 (Hurricane Ian), which area experienced the most significant flooding as evidenced by the extent of inundation?\n\nA: Coastal areas north of [258, 253]\nB: Inland areas around New Bern [258, 254]\nC: Areas along the western Bogue Sound near the waterspout location [258, 253]\nD:  No significant flooding is visible in image 1.\n\n"
+      },
+      {
+        "from": "gpt",
+        "value": " B"
+      }
+    ],
+    "id": 75
+  },
+  {
+    "folder_id": 8146,
+    "video": [
+      "all_events/8146/8146_2022-09-20.jpg",
+      "all_events/8146/8146_2022-10-05.jpg",
+      "all_events/8146/8146_2022-10-10.jpg",
+      "all_events/8146/8146_2022-10-15.jpg",
+      "all_events/8146/8146_2022-10-20.jpg",
+      "all_events/8146/8146_2022-10-25.jpg",
+      "all_events/8146/8146_2022-11-04.jpg"
+    ],
+    "dataset": "FemaEvents",
+    "lat_lon": [
+      [
+        35.6729639,
+        -79.0392919
+      ],
+      [
+        35.6729639,
+        -79.0392919
+      ],
+      [
+        35.6729639,
+        -79.0392919
+      ],
+      [
+        35.6729639,
+        -79.0392919
+      ],
+      [
+        35.6729639,
+        -79.0392919
+      ],
+      [
+        35.6729639,
+        -79.0392919
+      ],
+      [
+        35.6729639,
+        -79.0392919
+      ]
+    ],
+    "timestamp": [
+      "2022-09-20T00:00:00",
+      "2022-10-05T00:00:00",
+      "2022-10-10T00:00:00",
+      "2022-10-15T00:00:00",
+      "2022-10-20T00:00:00",
+      "2022-10-25T00:00:00",
+      "2022-11-04T00:00:00"
+    ],
+    "sensor": [
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite"
+    ],
+    "task": "custom",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This is a sequence of sentinel-2 satellite images, centered at (35.6729639, -79.0392919):\n<video>\n  Analyzing image 1 (Hurricane Ian), what type of infrastructure damage is MOST readily apparent based on the visible extent of flooding?\n\nA: Widespread damage to bridges\nB: Significant damage to high-rise buildings\nC: Extensive inundation affecting roadways and low-lying structures\nD: Minimal infrastructure damage is visible.\n\n\n"
+      },
+      {
+        "from": "gpt",
+        "value": " C"
+      }
+    ],
+    "id": 76
+  },
+  {
+    "folder_id": 8146,
+    "video": [
+      "all_events/8146/8146_2022-09-20.jpg",
+      "all_events/8146/8146_2022-10-05.jpg",
+      "all_events/8146/8146_2022-10-10.jpg",
+      "all_events/8146/8146_2022-10-15.jpg",
+      "all_events/8146/8146_2022-10-20.jpg",
+      "all_events/8146/8146_2022-10-25.jpg",
+      "all_events/8146/8146_2022-11-04.jpg"
+    ],
+    "dataset": "FemaEvents",
+    "lat_lon": [
+      [
+        35.6729639,
+        -79.0392919
+      ],
+      [
+        35.6729639,
+        -79.0392919
+      ],
+      [
+        35.6729639,
+        -79.0392919
+      ],
+      [
+        35.6729639,
+        -79.0392919
+      ],
+      [
+        35.6729639,
+        -79.0392919
+      ],
+      [
+        35.6729639,
+        -79.0392919
+      ],
+      [
+        35.6729639,
+        -79.0392919
+      ]
+    ],
+    "timestamp": [
+      "2022-09-20T00:00:00",
+      "2022-10-05T00:00:00",
+      "2022-10-10T00:00:00",
+      "2022-10-15T00:00:00",
+      "2022-10-20T00:00:00",
+      "2022-10-25T00:00:00",
+      "2022-11-04T00:00:00"
+    ],
+    "sensor": [
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite"
+    ],
+    "task": "custom",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This is a sequence of sentinel-2 satellite images, centered at (35.6729639, -79.0392919):\n<video>\n Comparing satellite images from before and after the Hurricane Ian event (assuming we had access to a \"before\" image -  this question requires imagining a second image not provided), which of the following would be the MOST reliable indicator of the hurricane's impact based solely on visual changes in satellite imagery?\n\nA: Changes in vegetation density around [258, 253]\nB: Alterations in the coastline near [258, 254]\nC: The presence or absence of specific buildings at [258, 253]\nD: Changes in the water levels in the Bogue Sound near [258, 253]\n\n\n"
+      },
+      {
+        "from": "gpt",
+        "value": " D"
+      }
+    ],
+    "id": 77
+  },
+  {
+    "folder_id": 8147,
+    "video": [
+      "all_events/8147/8147_2022-09-20.jpg",
+      "all_events/8147/8147_2022-10-05.jpg",
+      "all_events/8147/8147_2022-10-10.jpg",
+      "all_events/8147/8147_2022-10-15.jpg",
+      "all_events/8147/8147_2022-10-20.jpg",
+      "all_events/8147/8147_2022-10-25.jpg",
+      "all_events/8147/8147_2022-11-04.jpg"
+    ],
+    "dataset": "FemaEvents",
+    "lat_lon": [
+      [
+        35.6790519,
+        -79.0392919
+      ],
+      [
+        35.6790519,
+        -79.0392919
+      ],
+      [
+        35.6790519,
+        -79.0392919
+      ],
+      [
+        35.6790519,
+        -79.0392919
+      ],
+      [
+        35.6790519,
+        -79.0392919
+      ],
+      [
+        35.6790519,
+        -79.0392919
+      ],
+      [
+        35.6790519,
+        -79.0392919
+      ]
+    ],
+    "timestamp": [
+      "2022-09-20T00:00:00",
+      "2022-10-05T00:00:00",
+      "2022-10-10T00:00:00",
+      "2022-10-15T00:00:00",
+      "2022-10-20T00:00:00",
+      "2022-10-25T00:00:00",
+      "2022-11-04T00:00:00"
+    ],
+    "sensor": [
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite"
+    ],
+    "task": "custom",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This is a sequence of sentinel-2 satellite images, centered at (35.6790519, -79.0392919):\n<video>\n  Based on satellite imagery from September 23rd, what is the approximate area (in square kilometers) of the flooded region around New Bern [258, 254]?  (Assume a scale is available on the image)\n\nA:  Less than 1 square kilometer\nB:  Between 1 and 5 square kilometers\nC:  Between 5 and 10 square kilometers\nD:  Greater than 10 square kilometers\n"
+      },
+      {
+        "from": "gpt",
+        "value": "  C (This would depend on the actual image data; I'm making an educated guess here)"
+      }
+    ],
+    "id": 78
+  },
+  {
+    "folder_id": 8147,
+    "video": [
+      "all_events/8147/8147_2022-09-20.jpg",
+      "all_events/8147/8147_2022-10-05.jpg",
+      "all_events/8147/8147_2022-10-10.jpg",
+      "all_events/8147/8147_2022-10-15.jpg",
+      "all_events/8147/8147_2022-10-20.jpg",
+      "all_events/8147/8147_2022-10-25.jpg",
+      "all_events/8147/8147_2022-11-04.jpg"
+    ],
+    "dataset": "FemaEvents",
+    "lat_lon": [
+      [
+        35.6790519,
+        -79.0392919
+      ],
+      [
+        35.6790519,
+        -79.0392919
+      ],
+      [
+        35.6790519,
+        -79.0392919
+      ],
+      [
+        35.6790519,
+        -79.0392919
+      ],
+      [
+        35.6790519,
+        -79.0392919
+      ],
+      [
+        35.6790519,
+        -79.0392919
+      ],
+      [
+        35.6790519,
+        -79.0392919
+      ]
+    ],
+    "timestamp": [
+      "2022-09-20T00:00:00",
+      "2022-10-05T00:00:00",
+      "2022-10-10T00:00:00",
+      "2022-10-15T00:00:00",
+      "2022-10-20T00:00:00",
+      "2022-10-25T00:00:00",
+      "2022-11-04T00:00:00"
+    ],
+    "sensor": [
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite"
+    ],
+    "task": "custom",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This is a sequence of sentinel-2 satellite images, centered at (35.6790519, -79.0392919):\n<video>\n Analyzing satellite images from September 23rd, which type of infrastructure damage is MOST prevalent in the area affected by flooding in the vicinity of the reported waterspout (258, 253)?\n\nA:  Significant damage to large buildings\nB:  Widespread damage to major roads\nC:  Minor flooding affecting residential areas with minimal structural damage\nD:  Complete destruction of bridges.\n"
+      },
+      {
+        "from": "gpt",
+        "value": "  C (Again, this is a hypothetical answer dependent on unseen imagery.  A real answer would need image data.)"
+      }
+    ],
+    "id": 79
+  },
+  {
+    "folder_id": 8147,
+    "video": [
+      "all_events/8147/8147_2022-09-20.jpg",
+      "all_events/8147/8147_2022-10-05.jpg",
+      "all_events/8147/8147_2022-10-10.jpg",
+      "all_events/8147/8147_2022-10-15.jpg",
+      "all_events/8147/8147_2022-10-20.jpg",
+      "all_events/8147/8147_2022-10-25.jpg",
+      "all_events/8147/8147_2022-11-04.jpg"
+    ],
+    "dataset": "FemaEvents",
+    "lat_lon": [
+      [
+        35.6790519,
+        -79.0392919
+      ],
+      [
+        35.6790519,
+        -79.0392919
+      ],
+      [
+        35.6790519,
+        -79.0392919
+      ],
+      [
+        35.6790519,
+        -79.0392919
+      ],
+      [
+        35.6790519,
+        -79.0392919
+      ],
+      [
+        35.6790519,
+        -79.0392919
+      ],
+      [
+        35.6790519,
+        -79.0392919
+      ]
+    ],
+    "timestamp": [
+      "2022-09-20T00:00:00",
+      "2022-10-05T00:00:00",
+      "2022-10-10T00:00:00",
+      "2022-10-15T00:00:00",
+      "2022-10-20T00:00:00",
+      "2022-10-25T00:00:00",
+      "2022-11-04T00:00:00"
+    ],
+    "sensor": [
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite"
+    ],
+    "task": "custom",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This is a sequence of sentinel-2 satellite images, centered at (35.6790519, -79.0392919):\n<video>\n Comparing satellite images taken before and after September 23rd, what is the most apparent change in the area surrounding [258, 254]?\n\nA:  Significant deforestation\nB:  Large-scale construction activity\nC:  Increased water levels and visible flooding.\nD:  No significant change detected.\n"
+      },
+      {
+        "from": "gpt",
+        "value": "  C (This answer depends entirely on the existence and comparison of before-and-after imagery)"
+      }
+    ],
+    "id": 80
+  },
+  {
+    "folder_id": 8149,
+    "video": [
+      "all_events/8149/8149_2017-06-17.jpg"
+    ],
+    "dataset": "FemaEvents",
+    "lat_lon": [
+      [
+        18.1127526,
+        -66.2663961
+      ]
+    ],
+    "timestamp": [
+      "2017-06-17T00:00:00"
+    ],
+    "sensor": [
+      "satellite"
+    ],
+    "task": "custom",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This is a sequence of sentinel-2 satellite images, centered at (18.1127526, -66.2663961):\n<video>\n  Based on satellite imagery from images 1 and 2 (taken 12 hours apart), showing the flood event centered around [34.5,-118.2], what is the approximate increase in the flooded area?\n\nA:  Less than 5 square kilometers\nB:  Between 5 and 10 square kilometers\nC:  Between 10 and 20 square kilometers\nD:  Greater than 20 square kilometers\n\n"
+      },
+      {
+        "from": "gpt",
+        "value": " C"
+      }
+    ],
+    "id": 81
+  },
+  {
+    "folder_id": 8149,
+    "video": [
+      "all_events/8149/8149_2017-06-17.jpg"
+    ],
+    "dataset": "FemaEvents",
+    "lat_lon": [
+      [
+        18.1127526,
+        -66.2663961
+      ]
+    ],
+    "timestamp": [
+      "2017-06-17T00:00:00"
+    ],
+    "sensor": [
+      "satellite"
+    ],
+    "task": "custom",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This is a sequence of sentinel-2 satellite images, centered at (18.1127526, -66.2663961):\n<video>\n Examining satellite image 3 ([34.6,-118.0]), which type of infrastructure sustained the most significant damage from the flooding based solely on visible impact?\n\nA: Residential buildings – widespread roof damage is observed.\nB:  Commercial buildings – significant structural collapse visible in the downtown area.\nC:  Major highway bridges – complete collapse of at least two bridges is evident.\nD:  Agricultural land – extensive inundation with significant crop loss apparent.\n\n"
+      },
+      {
+        "from": "gpt",
+        "value": " A"
+      }
+    ],
+    "id": 82
+  },
+  {
+    "folder_id": 8149,
+    "video": [
+      "all_events/8149/8149_2017-06-17.jpg"
+    ],
+    "dataset": "FemaEvents",
+    "lat_lon": [
+      [
+        18.1127526,
+        -66.2663961
+      ]
+    ],
+    "timestamp": [
+      "2017-06-17T00:00:00"
+    ],
+    "sensor": [
+      "satellite"
+    ],
+    "task": "custom",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This is a sequence of sentinel-2 satellite images, centered at (18.1127526, -66.2663961):\n<video>\n Comparing satellite images 2 and 4 ([34.5,-118.3] and [34.5,-118.3] respectively), taken 24 and 48 hours after the initial flood event, what is the most significant observable change in the floodwater's characteristics?\n\nA: The water level has dropped significantly, exposing previously submerged areas.\nB: The floodwater has begun to stagnate, with evidence of debris accumulation.\nC: The floodwater has spread further into previously unaffected areas.\nD: The water color has changed dramatically, indicating a shift in water source.\n\n"
+      },
+      {
+        "from": "gpt",
+        "value": " A"
+      }
+    ],
+    "id": 83
+  },
+  {
+    "folder_id": 8150,
+    "video": [
+      "all_events/8150/8150_2022-09-14.jpg",
+      "all_events/8150/8150_2022-09-24.jpg"
+    ],
+    "dataset": "FemaEvents",
+    "lat_lon": [
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ]
+    ],
+    "timestamp": [
+      "2022-09-14T00:00:00",
+      "2022-09-24T00:00:00"
+    ],
+    "sensor": [
+      "satellite",
+      "satellite"
+    ],
+    "task": "custom",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This is a sequence of sentinel-2 satellite images, centered at (18.1127526, -66.2663961):\n<video>\n Based on satellite imagery comparing image 0 and image 1, which area shows the most significant increase in flooding after Hurricane Fiona's landfall?\n\nA:  Northern coastal region of Puerto Rico [260, 258]\nB:  Eastern mountainous region of Puerto Rico [257, 257]\nC: Southern and central regions of Puerto Rico [255, 256]\nD: Western coastal plains of Puerto Rico [253, 255]\n\n"
+      },
+      {
+        "from": "gpt",
+        "value": " C"
+      }
+    ],
+    "id": 84
+  },
+  {
+    "folder_id": 8150,
+    "video": [
+      "all_events/8150/8150_2022-09-14.jpg",
+      "all_events/8150/8150_2022-09-24.jpg"
+    ],
+    "dataset": "FemaEvents",
+    "lat_lon": [
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ]
+    ],
+    "timestamp": [
+      "2022-09-14T00:00:00",
+      "2022-09-24T00:00:00"
+    ],
+    "sensor": [
+      "satellite",
+      "satellite"
+    ],
+    "task": "custom",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This is a sequence of sentinel-2 satellite images, centered at (18.1127526, -66.2663961):\n<video>\n  Analyzing satellite image 1,  approximately what percentage of the area within the coordinates [254, 256] to [256, 258] appears to be significantly affected by flooding (i.e., visibly inundated)?  Assume a visual estimation based on the image.\n\nA: Less than 10%\nB: 10-30%\nC: 30-60%\nD: Greater than 60%\n\n"
+      },
+      {
+        "from": "gpt",
+        "value": "  C  (This answer will depend on the actual imagery provided,  making all options plausible if the imagery is appropriately ambiguous.  A clear image would allow for a definitive answer, but without the actual image, an estimation question with a range of possibilities is best.)"
+      }
+    ],
+    "id": 85
+  },
+  {
+    "folder_id": 8150,
+    "video": [
+      "all_events/8150/8150_2022-09-14.jpg",
+      "all_events/8150/8150_2022-09-24.jpg"
+    ],
+    "dataset": "FemaEvents",
+    "lat_lon": [
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ]
+    ],
+    "timestamp": [
+      "2022-09-14T00:00:00",
+      "2022-09-24T00:00:00"
+    ],
+    "sensor": [
+      "satellite",
+      "satellite"
+    ],
+    "task": "custom",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This is a sequence of sentinel-2 satellite images, centered at (18.1127526, -66.2663961):\n<video>\n Examining the progression from image 0 to image 1, what type of infrastructure damage is MOST readily apparent from the satellite imagery *in the immediate vicinity* of the landfall location (around [255,256])?\n\nA:  Extensive damage to major bridges\nB: Widespread destruction of large buildings\nC: Significant disruption of major roadways\nD: No major infrastructure damage is clearly visible\n\n\n"
+      },
+      {
+        "from": "gpt",
+        "value": " D (Again, this depends on the imagery.  The question is framed to allow for D as the answer if the resolution isn't high enough to see that level of damage.  Options A, B, and C could be equally plausible with sufficient high-resolution imagery showing significant infrastructure damage.)"
+      }
+    ],
+    "id": 86
+  },
+  {
+    "folder_id": 8151,
+    "video": [
+      "all_events/8151/8151_2022-09-20.jpg",
+      "all_events/8151/8151_2022-10-05.jpg",
+      "all_events/8151/8151_2022-10-10.jpg",
+      "all_events/8151/8151_2022-10-15.jpg",
+      "all_events/8151/8151_2022-10-20.jpg",
+      "all_events/8151/8151_2022-10-25.jpg",
+      "all_events/8151/8151_2022-11-04.jpg"
+    ],
+    "dataset": "FemaEvents",
+    "lat_lon": [
+      [
+        35.6790519,
+        -79.0392919
+      ],
+      [
+        35.6790519,
+        -79.0392919
+      ],
+      [
+        35.6790519,
+        -79.0392919
+      ],
+      [
+        35.6790519,
+        -79.0392919
+      ],
+      [
+        35.6790519,
+        -79.0392919
+      ],
+      [
+        35.6790519,
+        -79.0392919
+      ],
+      [
+        35.6790519,
+        -79.0392919
+      ]
+    ],
+    "timestamp": [
+      "2022-09-20T00:00:00",
+      "2022-10-05T00:00:00",
+      "2022-10-10T00:00:00",
+      "2022-10-15T00:00:00",
+      "2022-10-20T00:00:00",
+      "2022-10-25T00:00:00",
+      "2022-11-04T00:00:00"
+    ],
+    "sensor": [
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite"
+    ],
+    "task": "custom",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This is a sequence of sentinel-2 satellite images, centered at (35.6790519, -79.0392919):\n<video>\n Based on satellite imagery of Hatteras Island ([261, 255]) from September 23rd, what is the primary type of damage visible due to the early stages of Hurricane Ian?\n\nA: Significant structural damage to buildings.\nB: Widespread flooding and overwash.\nC: Extensive road closures due to debris.\nD: Minimal visible impact.\n\n"
+      },
+      {
+        "from": "gpt",
+        "value": " B"
+      }
+    ],
+    "id": 87
+  },
+  {
+    "folder_id": 8151,
+    "video": [
+      "all_events/8151/8151_2022-09-20.jpg",
+      "all_events/8151/8151_2022-10-05.jpg",
+      "all_events/8151/8151_2022-10-10.jpg",
+      "all_events/8151/8151_2022-10-15.jpg",
+      "all_events/8151/8151_2022-10-20.jpg",
+      "all_events/8151/8151_2022-10-25.jpg",
+      "all_events/8151/8151_2022-11-04.jpg"
+    ],
+    "dataset": "FemaEvents",
+    "lat_lon": [
+      [
+        35.6790519,
+        -79.0392919
+      ],
+      [
+        35.6790519,
+        -79.0392919
+      ],
+      [
+        35.6790519,
+        -79.0392919
+      ],
+      [
+        35.6790519,
+        -79.0392919
+      ],
+      [
+        35.6790519,
+        -79.0392919
+      ],
+      [
+        35.6790519,
+        -79.0392919
+      ],
+      [
+        35.6790519,
+        -79.0392919
+      ]
+    ],
+    "timestamp": [
+      "2022-09-20T00:00:00",
+      "2022-10-05T00:00:00",
+      "2022-10-10T00:00:00",
+      "2022-10-15T00:00:00",
+      "2022-10-20T00:00:00",
+      "2022-10-25T00:00:00",
+      "2022-11-04T00:00:00"
+    ],
+    "sensor": [
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite"
+    ],
+    "task": "custom",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This is a sequence of sentinel-2 satellite images, centered at (35.6790519, -79.0392919):\n<video>\n Comparing satellite images from September 23rd (Image 1) to subsequent days (Images 2-6), which area shows the LEAST change in visible impact from Hurricane Ian's early stages?\n\nA: New Bern ([258, 254])\nB: Kinston ([258, 254])\nC: Ocracoke Island ([260, 254])\nD: Western Bogue Sound ([258, 253])\n\n\n"
+      },
+      {
+        "from": "gpt",
+        "value": " D"
+      }
+    ],
+    "id": 88
+  },
+  {
+    "folder_id": 8151,
+    "video": [
+      "all_events/8151/8151_2022-09-20.jpg",
+      "all_events/8151/8151_2022-10-05.jpg",
+      "all_events/8151/8151_2022-10-10.jpg",
+      "all_events/8151/8151_2022-10-15.jpg",
+      "all_events/8151/8151_2022-10-20.jpg",
+      "all_events/8151/8151_2022-10-25.jpg",
+      "all_events/8151/8151_2022-11-04.jpg"
+    ],
+    "dataset": "FemaEvents",
+    "lat_lon": [
+      [
+        35.6790519,
+        -79.0392919
+      ],
+      [
+        35.6790519,
+        -79.0392919
+      ],
+      [
+        35.6790519,
+        -79.0392919
+      ],
+      [
+        35.6790519,
+        -79.0392919
+      ],
+      [
+        35.6790519,
+        -79.0392919
+      ],
+      [
+        35.6790519,
+        -79.0392919
+      ],
+      [
+        35.6790519,
+        -79.0392919
+      ]
+    ],
+    "timestamp": [
+      "2022-09-20T00:00:00",
+      "2022-10-05T00:00:00",
+      "2022-10-10T00:00:00",
+      "2022-10-15T00:00:00",
+      "2022-10-20T00:00:00",
+      "2022-10-25T00:00:00",
+      "2022-11-04T00:00:00"
+    ],
+    "sensor": [
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite"
+    ],
+    "task": "custom",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This is a sequence of sentinel-2 satellite images, centered at (35.6790519, -79.0392919):\n<video>\n  The description mentions a waterspout was observed in western Bogue Sound ([258, 253]) on September 23rd.  Based on satellite imagery from that day, what is the most likely visual indicator of this waterspout's presence?\n\nA: A large area of submerged land.\nB: A clearly defined path of destruction on land.\nC: A circular area of disturbed water.\nD: No visible impact from a waterspout is discernible in the imagery.\n\n"
+      },
+      {
+        "from": "gpt",
+        "value": " C"
+      }
+    ],
+    "id": 89
+  },
+  {
+    "folder_id": 8152,
+    "video": [
+      "all_events/8152/8152_2022-09-18.jpg",
+      "all_events/8152/8152_2022-09-21.jpg",
+      "all_events/8152/8152_2022-09-23.jpg",
+      "all_events/8152/8152_2022-09-26.jpg",
+      "all_events/8152/8152_2022-09-28.jpg",
+      "all_events/8152/8152_2022-10-01.jpg",
+      "all_events/8152/8152_2022-10-03.jpg",
+      "all_events/8152/8152_2022-10-06.jpg",
+      "all_events/8152/8152_2022-10-08.jpg",
+      "all_events/8152/8152_2022-10-11.jpg",
+      "all_events/8152/8152_2022-10-13.jpg",
+      "all_events/8152/8152_2022-10-16.jpg",
+      "all_events/8152/8152_2022-10-18.jpg",
+      "all_events/8152/8152_2022-10-21.jpg",
+      "all_events/8152/8152_2022-10-23.jpg",
+      "all_events/8152/8152_2022-10-26.jpg",
+      "all_events/8152/8152_2022-11-02.jpg",
+      "all_events/8152/8152_2022-11-05.jpg",
+      "all_events/8152/8152_2022-11-07.jpg"
+    ],
+    "dataset": "FemaEvents",
+    "lat_lon": [
+      [
+        29.9086211231,
+        -85.2610062794
+      ],
+      [
+        29.9086211231,
+        -85.2610062794
+      ],
+      [
+        29.9086211231,
+        -85.2610062794
+      ],
+      [
+        29.9086211231,
+        -85.2610062794
+      ],
+      [
+        29.9086211231,
+        -85.2610062794
+      ],
+      [
+        29.9086211231,
+        -85.2610062794
+      ],
+      [
+        29.9086211231,
+        -85.2610062794
+      ],
+      [
+        29.9086211231,
+        -85.2610062794
+      ],
+      [
+        29.9086211231,
+        -85.2610062794
+      ],
+      [
+        29.9086211231,
+        -85.2610062794
+      ],
+      [
+        29.9086211231,
+        -85.2610062794
+      ],
+      [
+        29.9086211231,
+        -85.2610062794
+      ],
+      [
+        29.9086211231,
+        -85.2610062794
+      ],
+      [
+        29.9086211231,
+        -85.2610062794
+      ],
+      [
+        29.9086211231,
+        -85.2610062794
+      ],
+      [
+        29.9086211231,
+        -85.2610062794
+      ],
+      [
+        29.9086211231,
+        -85.2610062794
+      ],
+      [
+        29.9086211231,
+        -85.2610062794
+      ],
+      [
+        29.9086211231,
+        -85.2610062794
+      ]
+    ],
+    "timestamp": [
+      "2022-09-18T00:00:00",
+      "2022-09-21T00:00:00",
+      "2022-09-23T00:00:00",
+      "2022-09-26T00:00:00",
+      "2022-09-28T00:00:00",
+      "2022-10-01T00:00:00",
+      "2022-10-03T00:00:00",
+      "2022-10-06T00:00:00",
+      "2022-10-08T00:00:00",
+      "2022-10-11T00:00:00",
+      "2022-10-13T00:00:00",
+      "2022-10-16T00:00:00",
+      "2022-10-18T00:00:00",
+      "2022-10-21T00:00:00",
+      "2022-10-23T00:00:00",
+      "2022-10-26T00:00:00",
+      "2022-11-02T00:00:00",
+      "2022-11-05T00:00:00",
+      "2022-11-07T00:00:00"
+    ],
+    "sensor": [
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite"
+    ],
+    "task": "custom",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This is a sequence of sentinel-2 satellite images, centered at (29.9086211231, -85.2610062794):\n<video>\n Based on satellite imagery from image 4 [assume image 4 shows coastal flooding], which area shows the greatest extent of flooding in eastern North Carolina?\nA:  [coordinates indicating a minimally flooded area]\nB:  [coordinates indicating a moderately flooded area]\nC:  [coordinates indicating a heavily flooded area]\nD:  [coordinates indicating an area with no visible flooding]\n"
+      },
+      {
+        "from": "gpt",
+        "value": " C"
+      }
+    ],
+    "id": 90
+  },
+  {
+    "folder_id": 8152,
+    "video": [
+      "all_events/8152/8152_2022-09-18.jpg",
+      "all_events/8152/8152_2022-09-21.jpg",
+      "all_events/8152/8152_2022-09-23.jpg",
+      "all_events/8152/8152_2022-09-26.jpg",
+      "all_events/8152/8152_2022-09-28.jpg",
+      "all_events/8152/8152_2022-10-01.jpg",
+      "all_events/8152/8152_2022-10-03.jpg",
+      "all_events/8152/8152_2022-10-06.jpg",
+      "all_events/8152/8152_2022-10-08.jpg",
+      "all_events/8152/8152_2022-10-11.jpg",
+      "all_events/8152/8152_2022-10-13.jpg",
+      "all_events/8152/8152_2022-10-16.jpg",
+      "all_events/8152/8152_2022-10-18.jpg",
+      "all_events/8152/8152_2022-10-21.jpg",
+      "all_events/8152/8152_2022-10-23.jpg",
+      "all_events/8152/8152_2022-10-26.jpg",
+      "all_events/8152/8152_2022-11-02.jpg",
+      "all_events/8152/8152_2022-11-05.jpg",
+      "all_events/8152/8152_2022-11-07.jpg"
+    ],
+    "dataset": "FemaEvents",
+    "lat_lon": [
+      [
+        29.9086211231,
+        -85.2610062794
+      ],
+      [
+        29.9086211231,
+        -85.2610062794
+      ],
+      [
+        29.9086211231,
+        -85.2610062794
+      ],
+      [
+        29.9086211231,
+        -85.2610062794
+      ],
+      [
+        29.9086211231,
+        -85.2610062794
+      ],
+      [
+        29.9086211231,
+        -85.2610062794
+      ],
+      [
+        29.9086211231,
+        -85.2610062794
+      ],
+      [
+        29.9086211231,
+        -85.2610062794
+      ],
+      [
+        29.9086211231,
+        -85.2610062794
+      ],
+      [
+        29.9086211231,
+        -85.2610062794
+      ],
+      [
+        29.9086211231,
+        -85.2610062794
+      ],
+      [
+        29.9086211231,
+        -85.2610062794
+      ],
+      [
+        29.9086211231,
+        -85.2610062794
+      ],
+      [
+        29.9086211231,
+        -85.2610062794
+      ],
+      [
+        29.9086211231,
+        -85.2610062794
+      ],
+      [
+        29.9086211231,
+        -85.2610062794
+      ],
+      [
+        29.9086211231,
+        -85.2610062794
+      ],
+      [
+        29.9086211231,
+        -85.2610062794
+      ],
+      [
+        29.9086211231,
+        -85.2610062794
+      ]
+    ],
+    "timestamp": [
+      "2022-09-18T00:00:00",
+      "2022-09-21T00:00:00",
+      "2022-09-23T00:00:00",
+      "2022-09-26T00:00:00",
+      "2022-09-28T00:00:00",
+      "2022-10-01T00:00:00",
+      "2022-10-03T00:00:00",
+      "2022-10-06T00:00:00",
+      "2022-10-08T00:00:00",
+      "2022-10-11T00:00:00",
+      "2022-10-13T00:00:00",
+      "2022-10-16T00:00:00",
+      "2022-10-18T00:00:00",
+      "2022-10-21T00:00:00",
+      "2022-10-23T00:00:00",
+      "2022-10-26T00:00:00",
+      "2022-11-02T00:00:00",
+      "2022-11-05T00:00:00",
+      "2022-11-07T00:00:00"
+    ],
+    "sensor": [
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite"
+    ],
+    "task": "custom",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This is a sequence of sentinel-2 satellite images, centered at (29.9086211231, -85.2610062794):\n<video>\n Comparing satellite images 3 and 5 [assume these show Hurricane Ian's intensification and subsequent impact], which infrastructural damage type shows the most significant change?\nA:  Widespread building collapse\nB:  Extensive road damage\nC:  Major bridge failure\nD:  Minimal observable damage\n"
+      },
+      {
+        "from": "gpt",
+        "value": " B"
+      }
+    ],
+    "id": 91
+  },
+  {
+    "folder_id": 8152,
+    "video": [
+      "all_events/8152/8152_2022-09-18.jpg",
+      "all_events/8152/8152_2022-09-21.jpg",
+      "all_events/8152/8152_2022-09-23.jpg",
+      "all_events/8152/8152_2022-09-26.jpg",
+      "all_events/8152/8152_2022-09-28.jpg",
+      "all_events/8152/8152_2022-10-01.jpg",
+      "all_events/8152/8152_2022-10-03.jpg",
+      "all_events/8152/8152_2022-10-06.jpg",
+      "all_events/8152/8152_2022-10-08.jpg",
+      "all_events/8152/8152_2022-10-11.jpg",
+      "all_events/8152/8152_2022-10-13.jpg",
+      "all_events/8152/8152_2022-10-16.jpg",
+      "all_events/8152/8152_2022-10-18.jpg",
+      "all_events/8152/8152_2022-10-21.jpg",
+      "all_events/8152/8152_2022-10-23.jpg",
+      "all_events/8152/8152_2022-10-26.jpg",
+      "all_events/8152/8152_2022-11-02.jpg",
+      "all_events/8152/8152_2022-11-05.jpg",
+      "all_events/8152/8152_2022-11-07.jpg"
+    ],
+    "dataset": "FemaEvents",
+    "lat_lon": [
+      [
+        29.9086211231,
+        -85.2610062794
+      ],
+      [
+        29.9086211231,
+        -85.2610062794
+      ],
+      [
+        29.9086211231,
+        -85.2610062794
+      ],
+      [
+        29.9086211231,
+        -85.2610062794
+      ],
+      [
+        29.9086211231,
+        -85.2610062794
+      ],
+      [
+        29.9086211231,
+        -85.2610062794
+      ],
+      [
+        29.9086211231,
+        -85.2610062794
+      ],
+      [
+        29.9086211231,
+        -85.2610062794
+      ],
+      [
+        29.9086211231,
+        -85.2610062794
+      ],
+      [
+        29.9086211231,
+        -85.2610062794
+      ],
+      [
+        29.9086211231,
+        -85.2610062794
+      ],
+      [
+        29.9086211231,
+        -85.2610062794
+      ],
+      [
+        29.9086211231,
+        -85.2610062794
+      ],
+      [
+        29.9086211231,
+        -85.2610062794
+      ],
+      [
+        29.9086211231,
+        -85.2610062794
+      ],
+      [
+        29.9086211231,
+        -85.2610062794
+      ],
+      [
+        29.9086211231,
+        -85.2610062794
+      ],
+      [
+        29.9086211231,
+        -85.2610062794
+      ],
+      [
+        29.9086211231,
+        -85.2610062794
+      ]
+    ],
+    "timestamp": [
+      "2022-09-18T00:00:00",
+      "2022-09-21T00:00:00",
+      "2022-09-23T00:00:00",
+      "2022-09-26T00:00:00",
+      "2022-09-28T00:00:00",
+      "2022-10-01T00:00:00",
+      "2022-10-03T00:00:00",
+      "2022-10-06T00:00:00",
+      "2022-10-08T00:00:00",
+      "2022-10-11T00:00:00",
+      "2022-10-13T00:00:00",
+      "2022-10-16T00:00:00",
+      "2022-10-18T00:00:00",
+      "2022-10-21T00:00:00",
+      "2022-10-23T00:00:00",
+      "2022-10-26T00:00:00",
+      "2022-11-02T00:00:00",
+      "2022-11-05T00:00:00",
+      "2022-11-07T00:00:00"
+    ],
+    "sensor": [
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite"
+    ],
+    "task": "custom",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This is a sequence of sentinel-2 satellite images, centered at (29.9086211231, -85.2610062794):\n<video>\n  Satellite image 5 [coordinates for specific coastal area] shows evidence of storm surge.  Approximately what is the maximum observed inland penetration of the surge, based on observable changes in land cover?\nA: 0.5 kilometers\nB: 1.5 kilometers\nC: 2.5 kilometers\nD:  3.5 kilometers\n"
+      },
+      {
+        "from": "gpt",
+        "value": "  C"
+      }
+    ],
+    "id": 92
+  },
+  {
+    "folder_id": 8153,
+    "video": [
+      "all_events/8153/8153_2022-09-20.jpg",
+      "all_events/8153/8153_2022-10-05.jpg",
+      "all_events/8153/8153_2022-10-10.jpg",
+      "all_events/8153/8153_2022-10-15.jpg",
+      "all_events/8153/8153_2022-10-20.jpg",
+      "all_events/8153/8153_2022-10-25.jpg",
+      "all_events/8153/8153_2022-11-04.jpg"
+    ],
+    "dataset": "FemaEvents",
+    "lat_lon": [
+      [
+        35.6790519,
+        -79.0392919
+      ],
+      [
+        35.6790519,
+        -79.0392919
+      ],
+      [
+        35.6790519,
+        -79.0392919
+      ],
+      [
+        35.6790519,
+        -79.0392919
+      ],
+      [
+        35.6790519,
+        -79.0392919
+      ],
+      [
+        35.6790519,
+        -79.0392919
+      ],
+      [
+        35.6790519,
+        -79.0392919
+      ]
+    ],
+    "timestamp": [
+      "2022-09-20T00:00:00",
+      "2022-10-05T00:00:00",
+      "2022-10-10T00:00:00",
+      "2022-10-15T00:00:00",
+      "2022-10-20T00:00:00",
+      "2022-10-25T00:00:00",
+      "2022-11-04T00:00:00"
+    ],
+    "sensor": [
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite"
+    ],
+    "task": "custom",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This is a sequence of sentinel-2 satellite images, centered at (35.6790519, -79.0392919):\n<video>\n Based on satellite imagery from September 23rd (Image 1), which location experienced the most significant coastal flooding due to the interaction of Hurricane Ian's winds and a stalled front?\n\nA: Core Banks (260, 254)\nB: Hatteras Island (261, 255)\nC: Ocracoke Island (260, 254)\nD:  New Bern (258, 254)\n\n"
+      },
+      {
+        "from": "gpt",
+        "value": " B"
+      }
+    ],
+    "id": 93
+  },
+  {
+    "folder_id": 8153,
+    "video": [
+      "all_events/8153/8153_2022-09-20.jpg",
+      "all_events/8153/8153_2022-10-05.jpg",
+      "all_events/8153/8153_2022-10-10.jpg",
+      "all_events/8153/8153_2022-10-15.jpg",
+      "all_events/8153/8153_2022-10-20.jpg",
+      "all_events/8153/8153_2022-10-25.jpg",
+      "all_events/8153/8153_2022-11-04.jpg"
+    ],
+    "dataset": "FemaEvents",
+    "lat_lon": [
+      [
+        35.6790519,
+        -79.0392919
+      ],
+      [
+        35.6790519,
+        -79.0392919
+      ],
+      [
+        35.6790519,
+        -79.0392919
+      ],
+      [
+        35.6790519,
+        -79.0392919
+      ],
+      [
+        35.6790519,
+        -79.0392919
+      ],
+      [
+        35.6790519,
+        -79.0392919
+      ],
+      [
+        35.6790519,
+        -79.0392919
+      ]
+    ],
+    "timestamp": [
+      "2022-09-20T00:00:00",
+      "2022-10-05T00:00:00",
+      "2022-10-10T00:00:00",
+      "2022-10-15T00:00:00",
+      "2022-10-20T00:00:00",
+      "2022-10-25T00:00:00",
+      "2022-11-04T00:00:00"
+    ],
+    "sensor": [
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite"
+    ],
+    "task": "custom",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This is a sequence of sentinel-2 satellite images, centered at (35.6790519, -79.0392919):\n<video>\n  Analyzing satellite imagery from September 23rd (Image 1), which geographic area shows evidence of a waterspout event?\n\nA:  Near the western Bogue Sound (258, 253)\nB:  Near Hatteras Island (261, 255)\nC:  Near Ocracoke Island (260, 254)\nD:  Near New Bern (258, 254)\n\n"
+      },
+      {
+        "from": "gpt",
+        "value": " A"
+      }
+    ],
+    "id": 94
+  },
+  {
+    "folder_id": 8153,
+    "video": [
+      "all_events/8153/8153_2022-09-20.jpg",
+      "all_events/8153/8153_2022-10-05.jpg",
+      "all_events/8153/8153_2022-10-10.jpg",
+      "all_events/8153/8153_2022-10-15.jpg",
+      "all_events/8153/8153_2022-10-20.jpg",
+      "all_events/8153/8153_2022-10-25.jpg",
+      "all_events/8153/8153_2022-11-04.jpg"
+    ],
+    "dataset": "FemaEvents",
+    "lat_lon": [
+      [
+        35.6790519,
+        -79.0392919
+      ],
+      [
+        35.6790519,
+        -79.0392919
+      ],
+      [
+        35.6790519,
+        -79.0392919
+      ],
+      [
+        35.6790519,
+        -79.0392919
+      ],
+      [
+        35.6790519,
+        -79.0392919
+      ],
+      [
+        35.6790519,
+        -79.0392919
+      ],
+      [
+        35.6790519,
+        -79.0392919
+      ]
+    ],
+    "timestamp": [
+      "2022-09-20T00:00:00",
+      "2022-10-05T00:00:00",
+      "2022-10-10T00:00:00",
+      "2022-10-15T00:00:00",
+      "2022-10-20T00:00:00",
+      "2022-10-25T00:00:00",
+      "2022-11-04T00:00:00"
+    ],
+    "sensor": [
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite"
+    ],
+    "task": "custom",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This is a sequence of sentinel-2 satellite images, centered at (35.6790519, -79.0392919):\n<video>\n Comparing satellite images from September 23rd (Image 1) with subsequent images (Images 2-6), which of these statements regarding infrastructure damage is supported by the available imagery?\n\nA: Significant bridge collapses are visible in the affected areas.\nB: Widespread destruction of buildings is evident in coastal communities.\nC: Major roadways show severe disruptions due to flooding or debris.\nD: The provided imagery shows no significant infrastructure damage.\n\n"
+      },
+      {
+        "from": "gpt",
+        "value": " D"
+      }
+    ],
+    "id": 95
+  },
+  {
+    "folder_id": 8154,
+    "video": [
+      "all_events/8154/8154_2022-09-24.jpg",
+      "all_events/8154/8154_2022-10-04.jpg",
+      "all_events/8154/8154_2022-10-09.jpg",
+      "all_events/8154/8154_2022-10-14.jpg",
+      "all_events/8154/8154_2022-10-19.jpg",
+      "all_events/8154/8154_2022-10-24.jpg",
+      "all_events/8154/8154_2022-11-03.jpg",
+      "all_events/8154/8154_2022-11-08.jpg"
+    ],
+    "dataset": "FemaEvents",
+    "lat_lon": [
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ]
+    ],
+    "timestamp": [
+      "2022-09-24T00:00:00",
+      "2022-10-04T00:00:00",
+      "2022-10-09T00:00:00",
+      "2022-10-14T00:00:00",
+      "2022-10-19T00:00:00",
+      "2022-10-24T00:00:00",
+      "2022-11-03T00:00:00",
+      "2022-11-08T00:00:00"
+    ],
+    "sensor": [
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite"
+    ],
+    "task": "custom",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This is a sequence of sentinel-2 satellite images, centered at (18.1127526, -66.2663961):\n<video>\n Based on satellite imagery of Hurricane Fiona's impact on Puerto Rico, which city shows the most extensive flooding based on visible changes in land surface coverage at coordinates near [255, 255]?\n\nA: San Juan (255, 257)\nB: Ponce (255, 255)\nC: Caguas (256, 256)\nD: San Lorenzo (363, 325)\n\n"
+      },
+      {
+        "from": "gpt",
+        "value": " B"
+      }
+    ],
+    "id": 96
+  },
+  {
+    "folder_id": 8154,
+    "video": [
+      "all_events/8154/8154_2022-09-24.jpg",
+      "all_events/8154/8154_2022-10-04.jpg",
+      "all_events/8154/8154_2022-10-09.jpg",
+      "all_events/8154/8154_2022-10-14.jpg",
+      "all_events/8154/8154_2022-10-19.jpg",
+      "all_events/8154/8154_2022-10-24.jpg",
+      "all_events/8154/8154_2022-11-03.jpg",
+      "all_events/8154/8154_2022-11-08.jpg"
+    ],
+    "dataset": "FemaEvents",
+    "lat_lon": [
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ]
+    ],
+    "timestamp": [
+      "2022-09-24T00:00:00",
+      "2022-10-04T00:00:00",
+      "2022-10-09T00:00:00",
+      "2022-10-14T00:00:00",
+      "2022-10-19T00:00:00",
+      "2022-10-24T00:00:00",
+      "2022-11-03T00:00:00",
+      "2022-11-08T00:00:00"
+    ],
+    "sensor": [
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite"
+    ],
+    "task": "custom",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This is a sequence of sentinel-2 satellite images, centered at (18.1127526, -66.2663961):\n<video>\n  Analyzing satellite images from before and after Hurricane Fiona ([255, 256] and surrounding areas), what type of infrastructure damage is MOST prevalent in the coastal regions near Punta Tocón (255, 256)?\n\nA: Extensive bridge collapses.\nB: Widespread building destruction.\nC: Significant road washouts and disruptions.\nD: Minimal visible infrastructure damage.\n\n"
+      },
+      {
+        "from": "gpt",
+        "value": " C"
+      }
+    ],
+    "id": 97
+  },
+  {
+    "folder_id": 8154,
+    "video": [
+      "all_events/8154/8154_2022-09-24.jpg",
+      "all_events/8154/8154_2022-10-04.jpg",
+      "all_events/8154/8154_2022-10-09.jpg",
+      "all_events/8154/8154_2022-10-14.jpg",
+      "all_events/8154/8154_2022-10-19.jpg",
+      "all_events/8154/8154_2022-10-24.jpg",
+      "all_events/8154/8154_2022-11-03.jpg",
+      "all_events/8154/8154_2022-11-08.jpg"
+    ],
+    "dataset": "FemaEvents",
+    "lat_lon": [
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ]
+    ],
+    "timestamp": [
+      "2022-09-24T00:00:00",
+      "2022-10-04T00:00:00",
+      "2022-10-09T00:00:00",
+      "2022-10-14T00:00:00",
+      "2022-10-19T00:00:00",
+      "2022-10-24T00:00:00",
+      "2022-11-03T00:00:00",
+      "2022-11-08T00:00:00"
+    ],
+    "sensor": [
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite"
+    ],
+    "task": "custom",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This is a sequence of sentinel-2 satellite images, centered at (18.1127526, -66.2663961):\n<video>\n Comparing satellite imagery from before and after Hurricane Fiona, which coordinate range displays the largest geographic area exhibiting significant changes in land surface characteristics indicative of flooding and/or mudslides? (Assume each coordinate represents a 10km x 10km area)\n\nA: [250, 250] - [260, 260]\nB: [260, 260] - [270, 270]\nC: [350, 320] - [370, 340]\nD: [255, 255] - [256, 256]\n\n\n"
+      },
+      {
+        "from": "gpt",
+        "value": " A"
+      }
+    ],
+    "id": 98
+  },
+  {
+    "folder_id": 8155,
+    "video": [
+      "all_events/8155/8155_2022-09-24.jpg",
+      "all_events/8155/8155_2022-10-04.jpg",
+      "all_events/8155/8155_2022-10-09.jpg",
+      "all_events/8155/8155_2022-10-14.jpg",
+      "all_events/8155/8155_2022-10-19.jpg",
+      "all_events/8155/8155_2022-10-24.jpg",
+      "all_events/8155/8155_2022-11-03.jpg",
+      "all_events/8155/8155_2022-11-08.jpg"
+    ],
+    "dataset": "FemaEvents",
+    "lat_lon": [
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ],
+      [
+        18.1127526,
+        -66.2663961
+      ]
+    ],
+    "timestamp": [
+      "2022-09-24T00:00:00",
+      "2022-10-04T00:00:00",
+      "2022-10-09T00:00:00",
+      "2022-10-14T00:00:00",
+      "2022-10-19T00:00:00",
+      "2022-10-24T00:00:00",
+      "2022-11-03T00:00:00",
+      "2022-11-08T00:00:00"
+    ],
+    "sensor": [
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite",
+      "satellite"
+    ],
+    "task": "custom",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "This is a sequence of sentinel-2 satellite images, centered at (18.1127526, -66.2663961):\n<video>\n Based on satellite imagery of the area around Punta Tocón, Puerto Rico (255, 256) after Hurricane Fiona, which type of infrastructure damage appears MOST widespread?\n\nA: Significant damage to large-scale industrial facilities.\nB: Widespread damage to residential buildings and infrastructure.\nC: Extensive damage to major bridges and highway overpasses.\nD: Concentrated damage limited to the immediate coastline.\n\n"
+      },
+      {
+        "from": "gpt",
+        "value": " B"
+      }
+    ],
+    "id": 99
+  }
+]
